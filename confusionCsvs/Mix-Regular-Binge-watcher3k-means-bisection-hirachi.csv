@@ -1,583 +1,583 @@
-,user,cat,intensitybinge,intensityregular,intensitybehavior,intensityClasses,features,prediction
-0,AB,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-1,Albert,Ordinary - Registered,4.0,9.0,Regular,1,"[4.0,9.0]",0
-2,Aleksander Valant,Ordinary - Registered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-3,alenka dornik,Ordinary - Registered,3.0,9.0,Regular,1,"[3.0,9.0]",0
-4,Alenka Neudauer,Ordinary - Registered,0.0,12.0,Regular,1,"[0.0,12.0]",0
-5,alesj,Ordinary - Registered,3.0,2.0,Binge watcher,2,"[3.0,2.0]",1
-6,alexhana,Ordinary - Registered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-7,alja,Ordinary - Registered,0.0,8.0,Regular,1,"[0.0,8.0]",0
-8,Aljaž,Ordinary - Registered,0.0,11.0,Regular,1,"[0.0,11.0]",0
-9,amanita.amanita,Ordinary - Registered,9.0,4.0,Binge watcher,2,"[9.0,4.0]",2
-10,Ana Horvath,Ordinary - Registered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-11,Ana Stadler,Ordinary - Registered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-12,AnaPetar,Ordinary - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-13,AnBn,Ordinary - Registered,3.0,9.0,Regular,1,"[3.0,9.0]",0
-14,Ando Saina,Ordinary - Registered,0.0,11.0,Regular,1,"[0.0,11.0]",0
-15,Andraž Šunkar,Ordinary - Registered,0.0,11.0,Regular,1,"[0.0,11.0]",0
-16,andrea vlastelica,Ordinary - Registered,5.0,7.0,Regular,1,"[5.0,7.0]",0
-17,andrea zavorovic,Ordinary - Registered,6.0,2.0,Binge watcher,2,"[6.0,2.0]",1
-18,Andrej_A,Ordinary - Registered,8.0,3.0,Binge watcher,2,"[8.0,3.0]",2
-19,Andro Zuanic,Ordinary - Registered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-20,andrzej,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-21,ane,Ordinary - Registered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-22,Anela,Ordinary - Registered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-23,Ankica,Ordinary - Registered,11.0,0.0,Binge watcher,2,"[11.0,0.0]",2
-24,Annie,Ordinary - Registered,0.0,13.0,Regular,1,"[0.0,13.0]",0
-25,ante vrataric,Ordinary - Registered,3.0,3.0,Mix,0,"[3.0,3.0]",0
-26,anton janeš,Ordinary - Registered,8.0,3.0,Binge watcher,2,"[8.0,3.0]",2
-27,Anze-G,Ordinary - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-28,Anzze99,Ordinary - Registered,3.0,6.0,Regular,1,"[3.0,6.0]",0
-29,Apsirtgirl,Ordinary - Registered,3.0,4.0,Regular,1,"[3.0,4.0]",0
-30,benjamin,Ordinary - Registered,6.0,0.0,Binge watcher,2,"[6.0,0.0]",1
-31,blaz02,Ordinary - Registered,6.0,0.0,Binge watcher,2,"[6.0,0.0]",1
-32,Bojan1825,Ordinary - Registered,4.0,8.0,Regular,1,"[4.0,8.0]",0
-33,BORIS MREVLJE,Ordinary - Registered,7.0,1.0,Binge watcher,2,"[7.0,1.0]",1
-34,Boštjan M.,Ordinary - Registered,0.0,7.0,Regular,1,"[0.0,7.0]",0
-35,BostjanH,Ordinary - Registered,12.0,1.0,Binge watcher,2,"[12.0,1.0]",2
-36,BoštjanK,Ordinary - Registered,0.0,13.0,Regular,1,"[0.0,13.0]",0
-37,Branklo,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-38,BrunoB,Ordinary - Registered,0.0,9.0,Regular,1,"[0.0,9.0]",0
-39,Buda,Ordinary - Registered,6.0,0.0,Binge watcher,2,"[6.0,0.0]",1
-40,Buki,Ordinary - Registered,0.0,10.0,Regular,1,"[0.0,10.0]",0
-41,chibu79,Ordinary - Registered,0.0,12.0,Regular,1,"[0.0,12.0]",0
-42,Cromiza,Ordinary - Registered,8.0,3.0,Binge watcher,2,"[8.0,3.0]",2
-43,cvjetko,Ordinary - Registered,0.0,12.0,Regular,1,"[0.0,12.0]",0
-44,Dalka,Ordinary - Registered,0.0,8.0,Regular,1,"[0.0,8.0]",0
-45,Damir Mulalic,Ordinary - Registered,8.0,4.0,Binge watcher,2,"[8.0,4.0]",2
-46,damir.juretic,Ordinary - Registered,0.0,11.0,Regular,1,"[0.0,11.0]",0
-47,Danilo4783,Ordinary - Registered,9.0,2.0,Binge watcher,2,"[9.0,2.0]",2
-48,Dario,Ordinary - Registered,6.0,3.0,Binge watcher,2,"[6.0,3.0]",1
-49,DarioR,Ordinary - Registered,4.0,3.0,Binge watcher,2,"[4.0,3.0]",1
-50,Darko Babic,Ordinary - Registered,0.0,13.0,Regular,1,"[0.0,13.0]",0
-51,Dejan Adamic,Ordinary - Registered,3.0,10.0,Regular,1,"[3.0,10.0]",0
-52,DejanJ,Ordinary - Registered,0.0,13.0,Regular,1,"[0.0,13.0]",0
-53,delimir,Ordinary - Registered,11.0,0.0,Binge watcher,2,"[11.0,0.0]",2
-54,demirel,Ordinary - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-55,Deni Oreb,Ordinary - Registered,11.0,0.0,Binge watcher,2,"[11.0,0.0]",2
-56,Dimen,Ordinary - Registered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-57,dkervina,Ordinary - Registered,4.0,4.0,Binge watcher,2,"[4.0,4.0]",0
-58,dmeic,Ordinary - Registered,12.0,1.0,Binge watcher,2,"[12.0,1.0]",2
-59,Domen S,Ordinary - Registered,0.0,12.0,Regular,1,"[0.0,12.0]",0
-60,Dorsi,Ordinary - Registered,6.0,4.0,Binge watcher,2,"[6.0,4.0]",1
-61,dragana,Ordinary - Registered,6.0,1.0,Binge watcher,2,"[6.0,1.0]",1
-62,Dražen,Ordinary - Registered,4.0,5.0,Regular,1,"[4.0,5.0]",0
-63,drejc,Ordinary - Registered,0.0,11.0,Regular,1,"[0.0,11.0]",0
-64,Duši,Ordinary - Registered,4.0,4.0,Binge watcher,2,"[4.0,4.0]",0
-65,Edvard,Ordinary - Registered,0.0,9.0,Regular,1,"[0.0,9.0]",0
-66,Efa i Neno,Ordinary - Registered,5.0,8.0,Regular,1,"[5.0,8.0]",0
-67,Elena Nikolovska,Ordinary - Registered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-68,Ferijan Perkovic,Ordinary - Registered,4.0,5.0,Regular,1,"[4.0,5.0]",0
-69,filip mestrovic,Ordinary - Registered,3.0,4.0,Regular,1,"[3.0,4.0]",0
-70,Gasper,Ordinary - Registered,3.0,4.0,Regular,1,"[3.0,4.0]",0
-71,gcampa,Ordinary - Registered,3.0,9.0,Regular,1,"[3.0,9.0]",0
-72,GITA MARINKOVIC,Ordinary - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-73,Goran Cacic,Ordinary - Registered,9.0,3.0,Binge watcher,2,"[9.0,3.0]",2
-74,Goran Ðurica,Ordinary - Registered,7.0,6.0,Binge watcher,2,"[7.0,6.0]",2
-75,Gordan,Ordinary - Registered,9.0,4.0,Binge watcher,2,"[9.0,4.0]",2
-76,Gordana Genc,Ordinary - Registered,0.0,9.0,Regular,1,"[0.0,9.0]",0
-77,gpet,Ordinary - Registered,3.0,9.0,Regular,1,"[3.0,9.0]",0
-78,Gregor Primc,Ordinary - Registered,0.0,12.0,Regular,1,"[0.0,12.0]",0
-79,greta,Ordinary - Registered,4.0,3.0,Binge watcher,2,"[4.0,3.0]",1
-80,Grozdana Sirotic,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-81,Grup amor,Ordinary - Registered,3.0,6.0,Regular,1,"[3.0,6.0]",0
-82,HanaP,Ordinary - Registered,3.0,2.0,Binge watcher,2,"[3.0,2.0]",1
-83,Hrvoje Juvancic,Ordinary - Registered,3.0,6.0,Regular,1,"[3.0,6.0]",0
-84,Igor Šutic,Ordinary - Registered,0.0,13.0,Regular,1,"[0.0,13.0]",0
-85,Igor Žafran,Ordinary - Registered,0.0,13.0,Regular,1,"[0.0,13.0]",0
-86,Igor29,Ordinary - Registered,5.0,1.0,Binge watcher,2,"[5.0,1.0]",1
-87,IgorGancevic,Ordinary - Registered,6.0,2.0,Binge watcher,2,"[6.0,2.0]",1
-88,igorr,Ordinary - Registered,6.0,3.0,Binge watcher,2,"[6.0,3.0]",1
-89,iivana,Ordinary - Registered,3.0,4.0,Regular,1,"[3.0,4.0]",0
-90,Ina,Ordinary - Registered,0.0,10.0,Regular,1,"[0.0,10.0]",0
-91,Ines,Ordinary - Registered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-92,Ivan Odrljin,Ordinary - Registered,0.0,13.0,Regular,1,"[0.0,13.0]",0
-93,Ivana PR,Ordinary - Registered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-94,IvanV,Ordinary - Registered,4.0,2.0,Binge watcher,2,"[4.0,2.0]",1
-95,Ivica Komljenovic,Ordinary - Registered,12.0,1.0,Binge watcher,2,"[12.0,1.0]",2
-96,Iztok3,Ordinary - Registered,8.0,2.0,Binge watcher,2,"[8.0,2.0]",2
-97,jadralec Jaro,Ordinary - Registered,0.0,8.0,Regular,1,"[0.0,8.0]",0
-98,Jadran,Ordinary - Registered,0.0,12.0,Regular,1,"[0.0,12.0]",0
-99,Janez  stupica,Ordinary - Registered,3.0,5.0,Regular,1,"[3.0,5.0]",0
-100,Jani Pristavec,Ordinary - Registered,0.0,13.0,Regular,1,"[0.0,13.0]",0
-101,Jaroš,Ordinary - Registered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-102,Jasminka,Ordinary - Registered,3.0,4.0,Regular,1,"[3.0,4.0]",0
-103,jelena,Ordinary - Registered,0.0,11.0,Regular,1,"[0.0,11.0]",0
-104,Jelena-Marija,Ordinary - Registered,7.0,4.0,Binge watcher,2,"[7.0,4.0]",2
-105,Jelena Cutura,Ordinary - Registered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-106,jerko,Ordinary - Registered,6.0,6.0,Binge watcher,2,"[6.0,6.0]",0
-107,Jerko. Marinkovic,Ordinary - Registered,5.0,7.0,Regular,1,"[5.0,7.0]",0
-108,Josip Rabanasic,Ordinary - Registered,3.0,4.0,Regular,1,"[3.0,4.0]",0
-109,josko52@gmail.com,Ordinary - Registered,6.0,1.0,Binge watcher,2,"[6.0,1.0]",1
-110,JOZE,Ordinary - Registered,4.0,1.0,Binge watcher,2,"[4.0,1.0]",1
-111,Jožko,Ordinary - Registered,0.0,10.0,Regular,1,"[0.0,10.0]",0
-112,Jure Gros,Ordinary - Registered,7.0,6.0,Binge watcher,2,"[7.0,6.0]",2
-113,jure111,Ordinary - Registered,6.0,0.0,Binge watcher,2,"[6.0,0.0]",1
-114,jurebizjak,Ordinary - Registered,0.0,12.0,Regular,1,"[0.0,12.0]",0
-115,kapitan72,Ordinary - Registered,3.0,6.0,Regular,1,"[3.0,6.0]",0
-116,Karla,Ordinary - Registered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-117,Karmen Hrvatic,Ordinary - Registered,6.0,5.0,Binge watcher,2,"[6.0,5.0]",1
-118,Katarina Šedlbauer,Ordinary - Registered,6.0,1.0,Binge watcher,2,"[6.0,1.0]",1
-119,kec,Ordinary - Registered,10.0,3.0,Binge watcher,2,"[10.0,3.0]",2
-120,kemi,Ordinary - Registered,0.0,8.0,Regular,1,"[0.0,8.0]",0
-121,Kiklop,Ordinary - Registered,6.0,5.0,Binge watcher,2,"[6.0,5.0]",1
-122,KlaraM,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-123,Kreso,Ordinary - Registered,10.0,2.0,Binge watcher,2,"[10.0,2.0]",2
-124,Kristijan Lopac,Ordinary - Registered,6.0,5.0,Binge watcher,2,"[6.0,5.0]",1
-125,Ksenija Sekulic,Ordinary - Registered,5.0,7.0,Regular,1,"[5.0,7.0]",0
-126,Kskoric,Ordinary - Registered,6.0,4.0,Binge watcher,2,"[6.0,4.0]",1
-127,Kvasina,Ordinary - Registered,8.0,3.0,Binge watcher,2,"[8.0,3.0]",2
-128,Labura,Ordinary - Registered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-129,Lana,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-130,Lea Svilicic,Ordinary - Registered,3.0,9.0,Regular,1,"[3.0,9.0]",0
-131,Leo Mihaljevic,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-132,ljubica basic,Ordinary - Registered,0.0,13.0,Regular,1,"[0.0,13.0]",0
-133,Luc,Ordinary - Registered,0.0,11.0,Regular,1,"[0.0,11.0]",0
-134,lucijan,Ordinary - Registered,5.0,8.0,Regular,1,"[5.0,8.0]",0
-135,ludmilla,Ordinary - Registered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-136,Luka Skocir,Ordinary - Registered,5.0,4.0,Binge watcher,2,"[5.0,4.0]",1
-137,luka.voncina,Ordinary - Registered,3.0,9.0,Regular,1,"[3.0,9.0]",0
-138,lukaaa11,Ordinary - Registered,3.0,3.0,Mix,0,"[3.0,3.0]",0
-139,Lupodimare,Ordinary - Registered,3.0,3.0,Mix,0,"[3.0,3.0]",0
-140,Maja Demaria,Ordinary - Registered,5.0,5.0,Mix,0,"[5.0,5.0]",0
-141,Maja Grinek,Ordinary - Registered,6.0,3.0,Binge watcher,2,"[6.0,3.0]",1
-142,maja laurence,Ordinary - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-143,MajaM,Ordinary - Registered,9.0,4.0,Binge watcher,2,"[9.0,4.0]",2
-144,Mare_,Ordinary - Registered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-145,mare10,Ordinary - Registered,6.0,1.0,Binge watcher,2,"[6.0,1.0]",1
-146,Maria,Ordinary - Registered,0.0,8.0,Regular,1,"[0.0,8.0]",0
-147,Marijana,Ordinary - Registered,4.0,3.0,Binge watcher,2,"[4.0,3.0]",1
-148,MARINO BRZAC,Ordinary - Registered,10.0,2.0,Binge watcher,2,"[10.0,2.0]",2
-149,Mario Bursac,Ordinary - Registered,0.0,9.0,Regular,1,"[0.0,9.0]",0
-150,Mario91,Ordinary - Registered,9.0,0.0,Binge watcher,2,"[9.0,0.0]",2
-151,Marjan Henigman,Ordinary - Registered,0.0,11.0,Regular,1,"[0.0,11.0]",0
-152,Markisha,Ordinary - Registered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-153,Marko Dundovic,Ordinary - Registered,6.0,7.0,Regular,1,"[6.0,7.0]",0
-154,Marko Kralj,Ordinary - Registered,3.0,2.0,Binge watcher,2,"[3.0,2.0]",1
-155,Marko L,Ordinary - Registered,9.0,3.0,Binge watcher,2,"[9.0,3.0]",2
-156,marko maticic,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-157,Maša,Ordinary - Registered,3.0,7.0,Regular,1,"[3.0,7.0]",0
-158,masa sarusic,Ordinary - Registered,3.0,9.0,Regular,1,"[3.0,9.0]",0
-159,Mate Vitaljic,Ordinary - Registered,0.0,10.0,Regular,1,"[0.0,10.0]",0
-160,Matija Osterc,Ordinary - Registered,10.0,3.0,Binge watcher,2,"[10.0,3.0]",2
-161,Matija Turkalj,Ordinary - Registered,6.0,5.0,Binge watcher,2,"[6.0,5.0]",1
-162,Matjazzavrl,Ordinary - Registered,4.0,4.0,Binge watcher,2,"[4.0,4.0]",0
-163,Mauro,Ordinary - Registered,3.0,6.0,Regular,1,"[3.0,6.0]",0
-164,MedoPiki,Ordinary - Registered,9.0,4.0,Binge watcher,2,"[9.0,4.0]",2
-165,melina lakoš,Ordinary - Registered,9.0,0.0,Binge watcher,2,"[9.0,0.0]",2
-166,mihaelas,Ordinary - Registered,9.0,0.0,Binge watcher,2,"[9.0,0.0]",2
-167,Miho,Ordinary - Registered,3.0,8.0,Regular,1,"[3.0,8.0]",0
-168,Milan Kuraš,Ordinary - Registered,9.0,4.0,Binge watcher,2,"[9.0,4.0]",2
-169,Mirela,Ordinary - Registered,9.0,4.0,Binge watcher,2,"[9.0,4.0]",2
-170,Mirjana Puškarski,Ordinary - Registered,0.0,8.0,Regular,1,"[0.0,8.0]",0
-171,Mirkomatic,Ordinary - Registered,8.0,5.0,Binge watcher,2,"[8.0,5.0]",2
-172,miroc,Ordinary - Registered,6.0,0.0,Binge watcher,2,"[6.0,0.0]",1
-173,Mišo,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-174,MojcaDamijan,Ordinary - Registered,5.0,8.0,Regular,1,"[5.0,8.0]",0
-175,Nataša,Ordinary - Registered,0.0,7.0,Regular,1,"[0.0,7.0]",0
-176,Nejc Kodric,Ordinary - Registered,9.0,4.0,Binge watcher,2,"[9.0,4.0]",2
-177,Nejc Likar,Ordinary - Registered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-178,nenad,Ordinary - Registered,0.0,7.0,Regular,1,"[0.0,7.0]",0
-179,NenadS,Ordinary - Registered,7.0,5.0,Binge watcher,2,"[7.0,5.0]",2
-180,Neven,Ordinary - Registered,3.0,10.0,Regular,1,"[3.0,10.0]",0
-181,Niko Vukusic,Ordinary - Registered,4.0,8.0,Regular,1,"[4.0,8.0]",0
-182,niko.mihovilovic,Ordinary - Registered,0.0,12.0,Regular,1,"[0.0,12.0]",0
-183,Nikola Baržic,Ordinary - Registered,5.0,2.0,Binge watcher,2,"[5.0,2.0]",1
-184,Nikoleta,Ordinary - Registered,4.0,6.0,Regular,1,"[4.0,6.0]",0
-185,nikonikokaoja,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-186,Oaky,Ordinary - Registered,3.0,6.0,Regular,1,"[3.0,6.0]",0
-187,Ojiga,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-188,Pavle,Ordinary - Registered,3.0,10.0,Regular,1,"[3.0,10.0]",0
-189,pedro,Ordinary - Registered,10.0,0.0,Binge watcher,2,"[10.0,0.0]",2
-190,peri,Ordinary - Registered,0.0,13.0,Regular,1,"[0.0,13.0]",0
-191,Pero,Ordinary - Registered,6.0,3.0,Binge watcher,2,"[6.0,3.0]",1
-192,Petar,Ordinary - Registered,7.0,5.0,Binge watcher,2,"[7.0,5.0]",2
-193,PeterKogej,Ordinary - Registered,8.0,3.0,Binge watcher,2,"[8.0,3.0]",2
-194,PetraP,Ordinary - Registered,0.0,10.0,Regular,1,"[0.0,10.0]",0
-195,Pina,Ordinary - Registered,0.0,13.0,Regular,1,"[0.0,13.0]",0
-196,Pino,Ordinary - Registered,6.0,3.0,Binge watcher,2,"[6.0,3.0]",1
-197,Pirko,Ordinary - Registered,8.0,4.0,Binge watcher,2,"[8.0,4.0]",2
-198,Pjerino,Ordinary - Registered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-199,Pjero,Ordinary - Registered,0.0,9.0,Regular,1,"[0.0,9.0]",0
-200,Plavac_mali,Ordinary - Registered,5.0,7.0,Regular,1,"[5.0,7.0]",0
-201,plombar,Ordinary - Registered,4.0,9.0,Regular,1,"[4.0,9.0]",0
-202,Pokmon,Ordinary - Registered,6.0,6.0,Binge watcher,2,"[6.0,6.0]",0
-203,Pokret Otoka,Ordinary - Registered,3.0,4.0,Regular,1,"[3.0,4.0]",0
-204,Polona,Ordinary - Registered,3.0,10.0,Regular,1,"[3.0,10.0]",0
-205,Primosius,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-206,RadoL,Ordinary - Registered,7.0,5.0,Binge watcher,2,"[7.0,5.0]",2
-207,Ramo,Ordinary - Registered,3.0,10.0,Regular,1,"[3.0,10.0]",0
-208,Rebeka,Ordinary - Registered,6.0,7.0,Regular,1,"[6.0,7.0]",0
-209,RobiF,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-210,rocco337,Ordinary - Registered,9.0,0.0,Binge watcher,2,"[9.0,0.0]",2
-211,Rok321,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-212,Roki,Ordinary - Registered,6.0,7.0,Regular,1,"[6.0,7.0]",0
-213,rokian,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-214,Romana,Ordinary - Registered,3.0,6.0,Regular,1,"[3.0,6.0]",0
-215,ruzica kovacevic,Ordinary - Registered,3.0,9.0,Regular,1,"[3.0,9.0]",0
-216,Sailman,Ordinary - Registered,4.0,8.0,Regular,1,"[4.0,8.0]",0
-217,Salieri,Ordinary - Registered,10.0,2.0,Binge watcher,2,"[10.0,2.0]",2
-218,Sandi,Ordinary - Registered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-219,sawyer,Ordinary - Registered,12.0,1.0,Binge watcher,2,"[12.0,1.0]",2
-220,shrike,Ordinary - Registered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-221,Silvestar Tokic,Ordinary - Registered,9.0,4.0,Binge watcher,2,"[9.0,4.0]",2
-222,Šimun Zamberlin,Ordinary - Registered,0.0,13.0,Regular,1,"[0.0,13.0]",0
-223,Škatja,Ordinary - Registered,4.0,3.0,Binge watcher,2,"[4.0,3.0]",1
-224,slipke,Ordinary - Registered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-225,splicho,Ordinary - Registered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-226,staneb,Ordinary - Registered,3.0,9.0,Regular,1,"[3.0,9.0]",0
-227,Stanojevic,Ordinary - Registered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-228,stipica,Ordinary - Registered,6.0,7.0,Regular,1,"[6.0,7.0]",0
-229,TAMARA L.,Ordinary - Registered,0.0,13.0,Regular,1,"[0.0,13.0]",0
-230,tasa,Ordinary - Registered,3.0,4.0,Regular,1,"[3.0,4.0]",0
-231,Tatjana,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-232,tibor,Ordinary - Registered,3.0,3.0,Mix,0,"[3.0,3.0]",0
-233,Tina Kiler,Ordinary - Registered,7.0,6.0,Binge watcher,2,"[7.0,6.0]",2
-234,Tjaša,Ordinary - Registered,3.0,9.0,Regular,1,"[3.0,9.0]",0
-235,Tojo,Ordinary - Registered,10.0,2.0,Binge watcher,2,"[10.0,2.0]",2
-236,tomaz1961,Ordinary - Registered,0.0,12.0,Regular,1,"[0.0,12.0]",0
-237,tomba,Ordinary - Registered,3.0,6.0,Regular,1,"[3.0,6.0]",0
-238,Tome,Ordinary - Registered,0.0,7.0,Regular,1,"[0.0,7.0]",0
-239,Tomica,Ordinary - Registered,0.0,7.0,Regular,1,"[0.0,7.0]",0
-240,Tomislav Cipcic,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-241,TonCa,Ordinary - Registered,7.0,6.0,Binge watcher,2,"[7.0,6.0]",2
-242,toni88,Ordinary - Registered,11.0,1.0,Binge watcher,2,"[11.0,1.0]",2
-243,Tpk,Ordinary - Registered,0.0,7.0,Regular,1,"[0.0,7.0]",0
-244,Trojan,Ordinary - Registered,0.0,9.0,Regular,1,"[0.0,9.0]",0
-245,Urle,Ordinary - Registered,13.0,0.0,Binge watcher,2,"[13.0,0.0]",2
-246,Urosv,Ordinary - Registered,3.0,9.0,Regular,1,"[3.0,9.0]",0
-247,vanja123,Ordinary - Registered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-248,Vedran,Ordinary - Registered,0.0,11.0,Regular,1,"[0.0,11.0]",0
-249,Vedran_499,Ordinary - Registered,0.0,7.0,Regular,1,"[0.0,7.0]",0
-250,vedrana,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-251,vibord,Ordinary - Registered,6.0,7.0,Regular,1,"[6.0,7.0]",0
-252,vid,Ordinary - Registered,6.0,5.0,Binge watcher,2,"[6.0,5.0]",1
-253,Vido,Ordinary - Registered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-254,Vido Repanšek,Ordinary - Registered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-255,Viktor Vic,Ordinary - Registered,0.0,11.0,Regular,1,"[0.0,11.0]",0
-256,vini,Ordinary - Registered,3.0,7.0,Regular,1,"[3.0,7.0]",0
-257,Vlado,Ordinary - Registered,0.0,11.0,Regular,1,"[0.0,11.0]",0
-258,Vlajko,Ordinary - Registered,8.0,5.0,Binge watcher,2,"[8.0,5.0]",2
-259,Vlasta Svetina,Ordinary - Registered,12.0,0.0,Binge watcher,2,"[12.0,0.0]",2
-260,wavemaker,Ordinary - Registered,4.0,8.0,Regular,1,"[4.0,8.0]",0
-261,x,Ordinary - Registered,9.0,1.0,Binge watcher,2,"[9.0,1.0]",2
-262,Žanetic,Ordinary - Registered,13.0,0.0,Binge watcher,2,"[13.0,0.0]",2
-263,Zdenko,Ordinary - Registered,3.0,2.0,Binge watcher,2,"[3.0,2.0]",1
-264,Zdenko Škrlj,Ordinary - Registered,6.0,7.0,Regular,1,"[6.0,7.0]",0
-265,Zdravko,Ordinary - Registered,3.0,10.0,Regular,1,"[3.0,10.0]",0
-266,Živko Joncic,Ordinary - Registered,12.0,1.0,Binge watcher,2,"[12.0,1.0]",2
-267,zvjezdana,Ordinary - Registered,3.0,2.0,Binge watcher,2,"[3.0,2.0]",1
-268,Zvonimir Matic,Ordinary - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-269,003136ec-fd3a-908e-de7e-45301e3b,Ordinary - Unregistered,4.0,1.0,Binge watcher,2,"[4.0,1.0]",1
-270,0064c3fd-7e6e-425c-f754-34b889c8,Ordinary - Unregistered,6.0,0.0,Binge watcher,2,"[6.0,0.0]",1
-271,037820a7-a143-422c-3ebd-3553d373,Ordinary - Unregistered,7.0,0.0,Binge watcher,2,"[7.0,0.0]",1
-272,04745589-295d-158e-c6c0-ef24f730,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-273,04a7d779-f053-b1a3-386e-82d69979,Ordinary - Unregistered,7.0,0.0,Binge watcher,2,"[7.0,0.0]",1
-274,068616a9-816f-e8e4-d737-6ddba1df,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-275,06f2e041-7a2d-a0ab-5f48-fd01f0a2,Ordinary - Unregistered,11.0,0.0,Binge watcher,2,"[11.0,0.0]",2
-276,0781bbba-c179-f93c-1116-8d684911,Ordinary - Unregistered,4.0,1.0,Binge watcher,2,"[4.0,1.0]",1
-277,08ee9ac0-7656-2b25-ce41-b44d758e,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-278,0a84077c-d3fa-56fc-803c-a863ca7e,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-279,0c9621b0-ff94-77e8-727f-5420882d,Ordinary - Unregistered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-280,0e59235e-e51a-a5cd-e0ba-0fffe847,Ordinary - Unregistered,11.0,0.0,Binge watcher,2,"[11.0,0.0]",2
-281,101c246c-3f77-d919-ca38-8d19141e,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-282,10355f7a-f86a-830c-cbf1-fb3c40b6,Ordinary - Unregistered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-283,135b42ab-ac52-d14a-c37c-6ffeca28,Ordinary - Unregistered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-284,1459b8fd-ecab-4e30-1fc9-3d649648,Ordinary - Unregistered,7.0,0.0,Binge watcher,2,"[7.0,0.0]",1
-285,1496b095-5b5f-4c47-5066-49bcf5d6,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-286,14a5fec5-bb5b-cac7-e40e-9a363e5c,Ordinary - Unregistered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-287,16ba8f74-d9b7-c724-98c5-f31f43be,Ordinary - Unregistered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-288,17b4a5d5-5e2a-5bc2-a4e6-25e3d1d4,Ordinary - Unregistered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-289,195b9f52-3731-37a7-2c74-19d11cb6,Ordinary - Unregistered,7.0,0.0,Binge watcher,2,"[7.0,0.0]",1
-290,196bc15c-4aac-31e9-7c5d-3599ce10,Ordinary - Unregistered,4.0,1.0,Binge watcher,2,"[4.0,1.0]",1
-291,1acb1c12-47e9-e408-eaf9-8167947a,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-292,1b1cd7ac-2f24-1493-5d7e-d7873af1,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-293,1beb31a1-0aea-018e-a7e1-82085ffa,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-294,1c09a110-d9c3-2442-9f5d-aee802c0,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-295,1cb07e56-7b73-0087-0a17-3e9c1f88,Ordinary - Unregistered,4.0,4.0,Binge watcher,2,"[4.0,4.0]",0
-296,1d3ed189-1162-0dd0-bcb2-fda83a50,Ordinary - Unregistered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-297,1d66d118-9cc1-c6cd-c61c-02ca2ddc,Ordinary - Unregistered,3.0,2.0,Binge watcher,2,"[3.0,2.0]",1
-298,1d90b45b-4d8d-42a1-43cd-38e1a241,Ordinary - Unregistered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-299,1e81aa64-c3c9-ee4f-ce3c-c4248be0,Ordinary - Unregistered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-300,1f7f3fd7-7087-1461-cf43-9add2172,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-301,1f96865d-62d4-b049-1788-cfccf324,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-302,20e2fc85-7d0f-8a2c-b651-4b811a97,Ordinary - Unregistered,3.0,3.0,Mix,0,"[3.0,3.0]",0
-303,23e6f6c8-2cd0-ac1c-e8a1-f2338caa,Ordinary - Unregistered,12.0,0.0,Binge watcher,2,"[12.0,0.0]",2
-304,258d2e1f-e3e8-2612-8285-895fb96d,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-305,269144fa-ef0e-c81e-52ff-df9a348a,Ordinary - Unregistered,10.0,3.0,Binge watcher,2,"[10.0,3.0]",2
-306,270174bf-baf8-aab4-48e3-139fcf47,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-307,27080783-250a-3521-f816-6e7b29cf,Ordinary - Unregistered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-308,2c1d08f2-a1ba-6915-db46-1a7721b9,Ordinary - Unregistered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-309,2ee1d86b-74ed-47f3-5733-61cc4821,Ordinary - Unregistered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-310,2f7f0e40-1234-75db-2bcf-bdfbdfbc,Ordinary - Unregistered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-311,31a88be4-13ad-06c2-119c-3551a490,Ordinary - Unregistered,10.0,0.0,Binge watcher,2,"[10.0,0.0]",2
-312,3244a4c0-3f85-3017-5694-2f5647cb,Ordinary - Unregistered,0.0,7.0,Regular,1,"[0.0,7.0]",0
-313,3447bacb-f54d-55c2-592f-3a3ff765,Ordinary - Unregistered,6.0,2.0,Binge watcher,2,"[6.0,2.0]",1
-314,34a3d1d8-74eb-8a4e-0506-b9ca1551,Ordinary - Unregistered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-315,35813a40-7aa6-5336-237b-c93f1759,Ordinary - Unregistered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-316,35ce5334-aefb-9a61-d1c3-7f01a776,Ordinary - Unregistered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-317,35daa597-4591-5a82-57a9-1fba2635,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-318,367365a7-8d2a-3b00-f3e3-f877be3c,Ordinary - Unregistered,6.0,1.0,Binge watcher,2,"[6.0,1.0]",1
-319,3681eecc-7864-c1c1-0024-4d4234be,Ordinary - Unregistered,10.0,0.0,Binge watcher,2,"[10.0,0.0]",2
-320,36a67ef1-5f22-7846-3f95-faec67c9,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-321,37ada581-75c2-560e-2eb3-3db3a231,Ordinary - Unregistered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-322,37d73652-37e1-cc5f-6c84-3b9a528c,Ordinary - Unregistered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-323,380773a6-f975-22c8-187e-e40fe702,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-324,3be7d5a2-f78e-3472-e5ac-fa27ed08,Ordinary - Unregistered,4.0,2.0,Binge watcher,2,"[4.0,2.0]",1
-325,3c370e25-1bd5-c34b-ec40-31117752,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-326,3d524e1d-934c-6d53-022b-983c91c3,Ordinary - Unregistered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-327,3d7d0f75-dda5-644d-e527-018ff340,Ordinary - Unregistered,8.0,3.0,Binge watcher,2,"[8.0,3.0]",2
-328,3dc06a27-afe4-b105-1f3c-997851c7,Ordinary - Unregistered,9.0,2.0,Binge watcher,2,"[9.0,2.0]",2
-329,3e4346e0-6285-8776-f373-101eac22,Ordinary - Unregistered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-330,3e713aeb-dcb2-d6a8-962f-635df3e8,Ordinary - Unregistered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-331,3fc2e2fe-697a-3255-1a17-4204819d,Ordinary - Unregistered,4.0,4.0,Binge watcher,2,"[4.0,4.0]",0
-332,404bc704-6703-c3c0-815e-55c756c5,Ordinary - Unregistered,0.0,8.0,Regular,1,"[0.0,8.0]",0
-333,4196e8ee-e405-a1e1-4a7f-7d9149a5,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-334,42779e7e-90bc-7eac-5aa8-a9874f90,Ordinary - Unregistered,4.0,7.0,Regular,1,"[4.0,7.0]",0
-335,440d90ef-c7d7-0530-608e-8c0fc440,Ordinary - Unregistered,0.0,7.0,Regular,1,"[0.0,7.0]",0
-336,459f5319-edaf-cd53-126d-fdfb12a5,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-337,45d78fe4-7d30-3b18-371e-57bb06c7,Ordinary - Unregistered,9.0,0.0,Binge watcher,2,"[9.0,0.0]",2
-338,4641102c-f3d3-3878-6d00-1c49a28c,Ordinary - Unregistered,7.0,4.0,Binge watcher,2,"[7.0,4.0]",2
-339,4a97a9b2-74fe-c9f3-625f-0176bddf,Ordinary - Unregistered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-340,4b21d918-4ac0-0787-3094-37c9432c,Ordinary - Unregistered,10.0,1.0,Binge watcher,2,"[10.0,1.0]",2
-341,4bd540f6-e34d-4592-7680-b2735389,Ordinary - Unregistered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-342,4c4ac589-35f5-76e3-d0a3-fedab6c6,Ordinary - Unregistered,0.0,8.0,Regular,1,"[0.0,8.0]",0
-343,4cc576c8-f218-94be-fef3-4b6fd86e,Ordinary - Unregistered,9.0,4.0,Binge watcher,2,"[9.0,4.0]",2
-344,4d0232bc-202c-ee3a-e58c-e543848c,Ordinary - Unregistered,0.0,7.0,Regular,1,"[0.0,7.0]",0
-345,4debb215-7398-77ba-2243-94adbd31,Ordinary - Unregistered,8.0,1.0,Binge watcher,2,"[8.0,1.0]",2
-346,4f3771bf-0850-3813-5de9-d0592e66,Ordinary - Unregistered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-347,502b50b6-08fa-b922-9bb6-dbd4d848,Ordinary - Unregistered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-348,53cb26b0-7222-8eb4-ef0d-29e7a801,Ordinary - Unregistered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-349,5409088d-b542-9cac-7fac-9ab00271,Ordinary - Unregistered,8.0,4.0,Binge watcher,2,"[8.0,4.0]",2
-350,5414140f-2888-40b9-e1e2-7984f327,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-351,54e1c86d-b289-f693-e3a3-5d393778,Ordinary - Unregistered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-352,554558f4-55fd-07df-ddb3-309239ad,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-353,56a4a9a0-7ab4-0a76-0621-b118321b,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-354,57b97824-05f2-21af-72f1-95f7d697,Ordinary - Unregistered,5.0,3.0,Binge watcher,2,"[5.0,3.0]",1
-355,5bfa22fd-175f-02d2-c446-36369a81,Ordinary - Unregistered,8.0,3.0,Binge watcher,2,"[8.0,3.0]",2
-356,5d557ed3-ce5e-24e4-a66e-aa966d6c,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-357,5e97ad83-2b2c-529e-f831-deac0066,Ordinary - Unregistered,4.0,1.0,Binge watcher,2,"[4.0,1.0]",1
-358,5fad3306-616d-9b57-3411-75efa34d,Ordinary - Unregistered,3.0,3.0,Mix,0,"[3.0,3.0]",0
-359,600fadb1-9f64-3bf4-b14c-378c45ae,Ordinary - Unregistered,3.0,8.0,Regular,1,"[3.0,8.0]",0
-360,6408c27b-ab13-d145-5b44-24f30202,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-361,6613f3e0-2e08-24f1-52ba-bfab8807,Ordinary - Unregistered,9.0,0.0,Binge watcher,2,"[9.0,0.0]",2
-362,6809fd15-56b5-3424-e33d-88eb107c,Ordinary - Unregistered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-363,6a9b69a1-5f2e-6aea-63d9-0e9d77c1,Ordinary - Unregistered,0.0,7.0,Regular,1,"[0.0,7.0]",0
-364,6c86b1d0-fd95-c414-78d2-9495251b,Ordinary - Unregistered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-365,6e25573c-8b7b-a2e7-a782-480ddb63,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-366,6f168bc8-c816-a359-ba88-da8c663d,Ordinary - Unregistered,7.0,1.0,Binge watcher,2,"[7.0,1.0]",1
-367,6f359ebe-9f0a-2bae-a27a-c4ec1712,Ordinary - Unregistered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-368,6f99bc0c-a871-5dd6-80cb-22296ada,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-369,70eacff4-a340-e4fd-746a-807b58c3,Ordinary - Unregistered,11.0,1.0,Binge watcher,2,"[11.0,1.0]",2
-370,74105285-3bd1-71b2-bb2b-df56e6f7,Ordinary - Unregistered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-371,74df8aff-e884-bc0d-7710-a23afc0d,Ordinary - Unregistered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-372,7550652e-a184-e590-1205-03d91e86,Ordinary - Unregistered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-373,755f4b52-e48e-eda7-42c0-2dabd3cf,Ordinary - Unregistered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-374,75bece44-7ed0-9de1-f411-854abe3b,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-375,77d5ac07-0cfc-ac01-e741-58dae777,Ordinary - Unregistered,3.0,5.0,Regular,1,"[3.0,5.0]",0
-376,78928b9d-af19-1353-e439-c5b1d36f,Ordinary - Unregistered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-377,78f08216-f3b9-62f6-7676-e8f9b3e2,Ordinary - Unregistered,3.0,2.0,Binge watcher,2,"[3.0,2.0]",1
-378,7b7820c3-5040-cdf4-4448-bacd9426,Ordinary - Unregistered,9.0,0.0,Binge watcher,2,"[9.0,0.0]",2
-379,7c6856f2-bacb-4be2-61d0-ba4bf284,Ordinary - Unregistered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-380,7d0acedd-f795-6e39-b508-3eea42ac,Ordinary - Unregistered,0.0,7.0,Regular,1,"[0.0,7.0]",0
-381,80e6c3aa-f56c-4679-d623-79d6fd2d,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-382,85d4f155-5a13-7eb1-4d96-5c0b6e30,Ordinary - Unregistered,11.0,2.0,Binge watcher,2,"[11.0,2.0]",2
-383,8a2e2082-7444-5533-6931-1b05fd88,Ordinary - Unregistered,5.0,2.0,Binge watcher,2,"[5.0,2.0]",1
-384,8a68d73e-17f5-4571-ef15-e1d03878,Ordinary - Unregistered,8.0,2.0,Binge watcher,2,"[8.0,2.0]",2
-385,8a6d88da-00af-01eb-e85b-db817e28,Ordinary - Unregistered,5.0,3.0,Binge watcher,2,"[5.0,3.0]",1
-386,8ae29d55-64a1-1cf2-962b-4a35e380,Ordinary - Unregistered,6.0,4.0,Binge watcher,2,"[6.0,4.0]",1
-387,8c7bdf99-8cda-02c4-7ccf-ad45ef8a,Ordinary - Unregistered,12.0,1.0,Binge watcher,2,"[12.0,1.0]",2
-388,8cedbb4b-6088-0b3c-fc04-ad8ce093,Ordinary - Unregistered,9.0,0.0,Binge watcher,2,"[9.0,0.0]",2
-389,8f38fcd5-8798-9850-2359-5268418e,Ordinary - Unregistered,4.0,4.0,Binge watcher,2,"[4.0,4.0]",0
-390,9187a2a4-6ffb-f4f5-f012-df8a1141,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-391,92d86eda-129e-0d8c-0a73-835acef9,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-392,9627fef7-14c0-4a88-0954-9cf43b68,Ordinary - Unregistered,8.0,1.0,Binge watcher,2,"[8.0,1.0]",2
-393,97372a43-0a6d-3145-e63f-0202242e,Ordinary - Unregistered,5.0,1.0,Binge watcher,2,"[5.0,1.0]",1
-394,97f93288-c344-0f1f-19c0-14aff5aa,Ordinary - Unregistered,3.0,6.0,Regular,1,"[3.0,6.0]",0
-395,98599cc0-703a-b3be-34dc-7bcf7e6a,Ordinary - Unregistered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-396,987749e2-fc0f-96db-2aa7-7df33e6d,Ordinary - Unregistered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-397,991dbd0d-8c68-1ed6-f469-0348585f,Ordinary - Unregistered,0.0,7.0,Regular,1,"[0.0,7.0]",0
-398,9946a658-3dc0-f680-6e04-89182b0f,Ordinary - Unregistered,4.0,2.0,Binge watcher,2,"[4.0,2.0]",1
-399,999f9f91-e880-70f1-00d3-e8994609,Ordinary - Unregistered,0.0,8.0,Regular,1,"[0.0,8.0]",0
-400,99d9bce0-1f7d-da02-6d84-afe0122e,Ordinary - Unregistered,6.0,1.0,Binge watcher,2,"[6.0,1.0]",1
-401,9c5c43e2-3def-6e8f-844e-4ee72d08,Ordinary - Unregistered,3.0,5.0,Regular,1,"[3.0,5.0]",0
-402,9cc2cc33-730e-86eb-e910-ff1ec6fd,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-403,9dfba79f-46d5-9b68-3a28-dff09283,Ordinary - Unregistered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-404,9e184ea2-45e6-abdb-90a9-fb5b011b,Ordinary - Unregistered,8.0,4.0,Binge watcher,2,"[8.0,4.0]",2
-405,a070cc15-8fb3-b7eb-834d-d191a652,Ordinary - Unregistered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-406,a134cb86-69ed-3ceb-ab8b-42799b5f,Ordinary - Unregistered,5.0,2.0,Binge watcher,2,"[5.0,2.0]",1
-407,a1ac05b8-d131-07d0-f419-28c0d19a,Ordinary - Unregistered,13.0,0.0,Binge watcher,2,"[13.0,0.0]",2
-408,a1b9f7ef-402c-6b05-11c1-33d65f47,Ordinary - Unregistered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-409,a4793f2a-58de-2b33-168f-32424641,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-410,a55e8048-fa92-f072-72e3-bbf2ba61,Ordinary - Unregistered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-411,a7010942-2bf9-c022-3897-796a718f,Ordinary - Unregistered,4.0,1.0,Binge watcher,2,"[4.0,1.0]",1
-412,a898d118-8b18-a02c-ae58-2a774d5f,Ordinary - Unregistered,7.0,0.0,Binge watcher,2,"[7.0,0.0]",1
-413,a932ede5-1443-cb58-2838-6a6efc0a,Ordinary - Unregistered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-414,a96e9db0-5940-66d7-4a98-2379b34d,Ordinary - Unregistered,3.0,2.0,Binge watcher,2,"[3.0,2.0]",1
-415,a98a0de3-d8ed-675c-b2d4-ac776c7b,Ordinary - Unregistered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-416,a997f5a7-10f2-8566-1c1d-559b423c,Ordinary - Unregistered,12.0,1.0,Binge watcher,2,"[12.0,1.0]",2
-417,abcc36e1-adfa-f564-04d4-d632273a,Ordinary - Unregistered,3.0,3.0,Mix,0,"[3.0,3.0]",0
-418,abda0840-539e-d7ad-7f3c-e3005350,Ordinary - Unregistered,4.0,3.0,Binge watcher,2,"[4.0,3.0]",1
-419,abe4e05a-6e7f-9b91-6fc2-255d8ca8,Ordinary - Unregistered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-420,ad50ec3a-b5fa-441c-dff6-68962309,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-421,af82af91-5c05-62ed-d5f4-ab452057,Ordinary - Unregistered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-422,b203a259-8fca-f544-f793-7196165c,Ordinary - Unregistered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-423,b341bfef-bd17-e48f-e3c6-71e45a3b,Ordinary - Unregistered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-424,b3ed71c3-f69d-be41-8e55-61063ba5,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-425,b4317fab-f533-bf46-11da-30745ab3,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-426,b51ab28b-c73d-4a8a-b819-1193d14b,Ordinary - Unregistered,4.0,7.0,Regular,1,"[4.0,7.0]",0
-427,bbed801c-180e-99dc-7c6b-4a6ce07e,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-428,bc165eba-99d1-fcf2-3c18-7b8ddbe3,Ordinary - Unregistered,6.0,3.0,Binge watcher,2,"[6.0,3.0]",1
-429,bc59fb83-de20-c8dc-0046-06b5a884,Ordinary - Unregistered,6.0,0.0,Binge watcher,2,"[6.0,0.0]",1
-430,bde2c3b9-096f-3106-3105-39e3c690,Ordinary - Unregistered,8.0,1.0,Binge watcher,2,"[8.0,1.0]",2
-431,be7e4626-8ea8-e4e7-bd98-df4d6b7e,Ordinary - Unregistered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-432,be8f96e0-decb-0d0f-f5a0-da9a731a,Ordinary - Unregistered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-433,bf2d4ca4-7b76-c83f-c25b-69db4d40,Ordinary - Unregistered,10.0,1.0,Binge watcher,2,"[10.0,1.0]",2
-434,c0a279eb-433f-7d20-4fe4-30c7bf1d,Ordinary - Unregistered,7.0,0.0,Binge watcher,2,"[7.0,0.0]",1
-435,c0e4f1b6-286e-9a62-9b55-08b882ec,Ordinary - Unregistered,4.0,9.0,Regular,1,"[4.0,9.0]",0
-436,c0f2c451-9f22-3dc5-b0ab-d6747910,Ordinary - Unregistered,10.0,0.0,Binge watcher,2,"[10.0,0.0]",2
-437,c1b850ff-362a-890f-0c23-014773bb,Ordinary - Unregistered,11.0,1.0,Binge watcher,2,"[11.0,1.0]",2
-438,c24334a0-477a-6656-021d-668ba57f,Ordinary - Unregistered,7.0,0.0,Binge watcher,2,"[7.0,0.0]",1
-439,c3385c79-a01d-377d-9eac-6cf460e9,Ordinary - Unregistered,6.0,2.0,Binge watcher,2,"[6.0,2.0]",1
-440,c9f74898-df82-973e-76ca-08186d7c,Ordinary - Unregistered,6.0,0.0,Binge watcher,2,"[6.0,0.0]",1
-441,cc1e5f29-a1bd-4a13-5c8d-dbcaa11b,Ordinary - Unregistered,5.0,1.0,Binge watcher,2,"[5.0,1.0]",1
-442,ce280b9f-f7cf-eef4-dd34-fdc44bfe,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-443,ce4913ec-b21e-60b6-d455-4bc5b2b4,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-444,ceff0481-0e5a-e1d8-5361-b5ba2a52,Ordinary - Unregistered,3.0,6.0,Regular,1,"[3.0,6.0]",0
-445,cf23b843-3219-15e7-f878-361bbfeb,Ordinary - Unregistered,6.0,0.0,Binge watcher,2,"[6.0,0.0]",1
-446,d0fe3bbe-eeeb-e784-986f-51c01c74,Ordinary - Unregistered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-447,d2a78c5a-c501-ea53-1bcf-2fedb47d,Ordinary - Unregistered,0.0,9.0,Regular,1,"[0.0,9.0]",0
-448,d41a406c-81b7-dca2-962a-a408e155,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-449,d424420a-72ee-7166-ac7e-9b96c0e6,Ordinary - Unregistered,4.0,4.0,Binge watcher,2,"[4.0,4.0]",0
-450,d4ca59b9-1058-6388-4cc5-e58c2290,Ordinary - Unregistered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-451,d5d7fee4-5428-bea3-17aa-30fb97f1,Ordinary - Unregistered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-452,d6458839-e410-c16f-44d7-7aad9b6b,Ordinary - Unregistered,11.0,0.0,Binge watcher,2,"[11.0,0.0]",2
-453,d80b6775-ae61-8dae-98ce-99412037,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-454,d89aba44-424b-9d5d-5dd4-f1fbabf1,Ordinary - Unregistered,11.0,0.0,Binge watcher,2,"[11.0,0.0]",2
-455,d92b593e-555f-9b3b-4007-752ea02c,Ordinary - Unregistered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-456,d964c832-c32d-77ff-672a-1cf12f7e,Ordinary - Unregistered,9.0,0.0,Binge watcher,2,"[9.0,0.0]",2
-457,daf25c41-8b84-6414-7646-b7df2abd,Ordinary - Unregistered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-458,db98a0d9-3d4f-4219-b27d-74a44a01,Ordinary - Unregistered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-459,dd30c478-d26e-3f37-f395-b912bead,Ordinary - Unregistered,9.0,0.0,Binge watcher,2,"[9.0,0.0]",2
-460,de14f7c6-1844-4e1b-bb5c-16ceef86,Ordinary - Unregistered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-461,dfc849d9-7793-4345-d533-579da01b,Ordinary - Unregistered,8.0,3.0,Binge watcher,2,"[8.0,3.0]",2
-462,e091c85e-d8a5-ed63-dfdb-631d4614,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-463,e3485d79-4f92-1fff-4e64-56943e9b,Ordinary - Unregistered,6.0,4.0,Binge watcher,2,"[6.0,4.0]",1
-464,e65e8c36-5f2d-131d-9602-cd643f97,Ordinary - Unregistered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-465,e74ddfe8-97b1-613e-1495-f884f58c,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-466,e88cc767-fc0d-54d4-243a-4479ebf9,Ordinary - Unregistered,7.0,0.0,Binge watcher,2,"[7.0,0.0]",1
-467,e9822752-a8af-cf42-1ddc-d2518ca8,Ordinary - Unregistered,6.0,3.0,Binge watcher,2,"[6.0,3.0]",1
-468,e99d6a57-d572-b7f6-34cf-3ac76f24,Ordinary - Unregistered,0.0,6.0,Regular,1,"[0.0,6.0]",0
-469,eb9864df-c827-4027-9de4-5829eee9,Ordinary - Unregistered,8.0,3.0,Binge watcher,2,"[8.0,3.0]",2
-470,eba3b0ea-3aeb-a6e3-8df6-742db8a0,Ordinary - Unregistered,7.0,0.0,Binge watcher,2,"[7.0,0.0]",1
-471,ebdd7e01-09f4-dbf1-8a08-602d0001,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-472,ed71098a-9600-3bac-4cca-70ce0496,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-473,ed71bd28-a732-78c0-de66-e32f77c8,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-474,edcaf7c0-7593-61d2-f4e9-689b8340,Ordinary - Unregistered,6.0,0.0,Binge watcher,2,"[6.0,0.0]",1
-475,ef70bde5-8a4d-68a0-4f26-e5253d2c,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-476,f2a9ccb0-9831-6d2a-6254-8f0366c9,Ordinary - Unregistered,4.0,2.0,Binge watcher,2,"[4.0,2.0]",1
-477,f4bf52fc-cffa-0f52-f4f9-2eff92fc,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-478,f5196f35-183f-1d55-1883-5fef618e,Ordinary - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-479,f6956137-aec3-29d6-ad64-d870e209,Ordinary - Unregistered,3.0,4.0,Regular,1,"[3.0,4.0]",0
-480,f6c2c059-c90e-1566-cc25-b0823249,Ordinary - Unregistered,10.0,0.0,Binge watcher,2,"[10.0,0.0]",2
-481,f6cd37ab-4add-fb6f-20c2-2374f109,Ordinary - Unregistered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-482,f83fd099-8c89-2894-3a91-bb38be88,Ordinary - Unregistered,6.0,2.0,Binge watcher,2,"[6.0,2.0]",1
-483,f8c2bef5-12f7-05a2-39e8-43daff7b,Ordinary - Unregistered,3.0,3.0,Mix,0,"[3.0,3.0]",0
-484,f8f5aa96-ff9b-eb8f-c3dc-06293d3f,Ordinary - Unregistered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-485,fcb83a6e-9298-b96c-29e5-c217b27f,Ordinary - Unregistered,4.0,3.0,Binge watcher,2,"[4.0,3.0]",1
-486,ff3d026c-5e45-1835-2b58-e6308d38,Ordinary - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-487,ff549000-a9c8-4964-1ece-6923a32e,Ordinary - Unregistered,3.0,2.0,Binge watcher,2,"[3.0,2.0]",1
-488,Aleksandra,Late - Registered,11.0,1.0,Binge watcher,2,"[11.0,1.0]",2
-489,alma,Late - Registered,9.0,0.0,Binge watcher,2,"[9.0,0.0]",2
-490,AndrejaN,Late - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-491,anja menih,Late - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-492,anja.r,Late - Registered,12.0,0.0,Binge watcher,2,"[12.0,0.0]",2
-493,Annie Cornu,Late - Registered,12.0,0.0,Binge watcher,2,"[12.0,0.0]",2
-494,babao,Late - Registered,5.0,8.0,Regular,1,"[5.0,8.0]",0
-495,Bor,Late - Registered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-496,BorutKolar,Late - Registered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-497,David Sirk,Late - Registered,9.0,2.0,Binge watcher,2,"[9.0,2.0]",2
-498,Dražen Kralj,Late - Registered,11.0,1.0,Binge watcher,2,"[11.0,1.0]",2
-499,Gaja,Late - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-500,Hrvoje Petek,Late - Registered,11.0,1.0,Binge watcher,2,"[11.0,1.0]",2
-501,Ivana Kozina,Late - Registered,10.0,3.0,Binge watcher,2,"[10.0,3.0]",2
-502,Jelenaa,Late - Registered,11.0,1.0,Binge watcher,2,"[11.0,1.0]",2
-503,Jolanda,Late - Registered,9.0,0.0,Binge watcher,2,"[9.0,0.0]",2
-504,Katja De Faveri,Late - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-505,Kopacin,Late - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-506,Ksenija,Late - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-507,Lejla,Late - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-508,Marco,Late - Registered,12.0,1.0,Binge watcher,2,"[12.0,1.0]",2
-509,Marušaaaa,Late - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-510,Matea Pavicic,Late - Registered,3.0,5.0,Regular,1,"[3.0,5.0]",0
-511,miranF,Late - Registered,13.0,0.0,Binge watcher,2,"[13.0,0.0]",2
-512,Nada,Late - Registered,12.0,0.0,Binge watcher,2,"[12.0,0.0]",2
-513,Nikolaj,Late - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-514,Nina1,Late - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-515,NinaP,Late - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-516,noordung,Late - Registered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-517,p2035e,Late - Registered,3.0,2.0,Binge watcher,2,"[3.0,2.0]",1
-518,Paval,Late - Registered,10.0,3.0,Binge watcher,2,"[10.0,3.0]",2
-519,poppy,Late - Registered,12.0,1.0,Binge watcher,2,"[12.0,1.0]",2
-520,roman113,Late - Registered,6.0,0.0,Binge watcher,2,"[6.0,0.0]",1
-521,Safet,Late - Registered,4.0,4.0,Binge watcher,2,"[4.0,4.0]",0
-522,Spasic Vladimir,Late - Registered,4.0,2.0,Binge watcher,2,"[4.0,2.0]",1
-523,stinfio,Late - Registered,10.0,3.0,Binge watcher,2,"[10.0,3.0]",2
-524,Tone,Late - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-525,Toni Petkovic,Late - Registered,8.0,5.0,Binge watcher,2,"[8.0,5.0]",2
-526,Valentin,Late - Registered,13.0,0.0,Binge watcher,2,"[13.0,0.0]",2
-527,Vanda,Late - Registered,4.0,1.0,Binge watcher,2,"[4.0,1.0]",1
-528,varga,Late - Registered,10.0,2.0,Binge watcher,2,"[10.0,2.0]",2
-529,Vedran Nikolic,Late - Registered,12.0,0.0,Binge watcher,2,"[12.0,0.0]",2
-530,ŽS,Late - Registered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-531,0126c792-ca6a-61a6-a96a-42bf5fc1,Late - Unregistered,4.0,1.0,Binge watcher,2,"[4.0,1.0]",1
-532,012d8099-01c6-f99f-55ef-151df7a5,Late - Unregistered,3.0,3.0,Mix,0,"[3.0,3.0]",0
-533,01d960ae-5d88-45e9-e235-6f68599c,Late - Unregistered,12.0,0.0,Binge watcher,2,"[12.0,0.0]",2
-534,0f165b85-0670-e6ac-bf14-cf00655a,Late - Unregistered,8.0,5.0,Binge watcher,2,"[8.0,5.0]",2
-535,14b19a02-38a5-992d-2f4f-aebd2315,Late - Unregistered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-536,25a03b67-3ce1-77fc-c715-72ba385a,Late - Unregistered,7.0,5.0,Binge watcher,2,"[7.0,5.0]",2
-537,2888b741-780e-2c51-0772-617d7c33,Late - Unregistered,13.0,0.0,Binge watcher,2,"[13.0,0.0]",2
-538,2c89fe15-af0e-a900-7384-29f556d1,Late - Unregistered,12.0,1.0,Binge watcher,2,"[12.0,1.0]",2
-539,2fba9116-a20d-ea5f-3980-a0c4226c,Late - Unregistered,3.0,2.0,Binge watcher,2,"[3.0,2.0]",1
-540,32c9bec6-bd73-18c6-9611-148b7b0e,Late - Unregistered,7.0,1.0,Binge watcher,2,"[7.0,1.0]",1
-541,3469f507-2f62-0e43-70e8-0c4bc6e3,Late - Unregistered,12.0,0.0,Binge watcher,2,"[12.0,0.0]",2
-542,3db3466c-e5e5-3bc2-d72b-8fa46cd2,Late - Unregistered,10.0,0.0,Binge watcher,2,"[10.0,0.0]",2
-543,427905ff-8519-fc73-90ee-17ecae10,Late - Unregistered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-544,461e7201-9b62-2da4-aca6-9bc7e2aa,Late - Unregistered,6.0,0.0,Binge watcher,2,"[6.0,0.0]",1
-545,4fa0f410-5265-9be6-be9d-778ee66d,Late - Unregistered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-546,52656cee-d479-aed9-c14a-94a33208,Late - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-547,54ec8d85-fcb4-2695-6332-e8c53e6e,Late - Unregistered,10.0,0.0,Binge watcher,2,"[10.0,0.0]",2
-548,57fbd139-416d-e97c-42e1-e3d21786,Late - Unregistered,6.0,0.0,Binge watcher,2,"[6.0,0.0]",1
-549,5a064204-6bd4-8b83-adec-4f0196a2,Late - Unregistered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-550,5bb4be5d-066c-8d6b-ec52-55325830,Late - Unregistered,3.0,1.0,Binge watcher,2,"[3.0,1.0]",1
-551,5de63720-f52d-3d98-8315-9cffae99,Late - Unregistered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-552,6ba67821-cac2-1015-fa83-7a8546b6,Late - Unregistered,8.0,3.0,Binge watcher,2,"[8.0,3.0]",2
-553,6cb1567b-ce14-1c63-5c79-2d56cd65,Late - Unregistered,9.0,0.0,Binge watcher,2,"[9.0,0.0]",2
-554,76223a87-2695-2b9d-ac3d-b8a7f469,Late - Unregistered,13.0,0.0,Binge watcher,2,"[13.0,0.0]",2
-555,8095dea5-2414-2dd8-96a5-94762161,Late - Unregistered,3.0,2.0,Binge watcher,2,"[3.0,2.0]",1
-556,823fb65f-7880-5b1e-2c81-c7fdda61,Late - Unregistered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-557,889c7103-b73e-f33a-594f-f207a4cd,Late - Unregistered,11.0,0.0,Binge watcher,2,"[11.0,0.0]",2
-558,8bdf5cb3-35c1-f6f1-e618-f641fcc2,Late - Unregistered,11.0,2.0,Binge watcher,2,"[11.0,2.0]",2
-559,921196a3-13fa-e4ce-3af8-6cbdc712,Late - Unregistered,8.0,2.0,Binge watcher,2,"[8.0,2.0]",2
-560,979eea52-4e76-7700-5136-517b6799,Late - Unregistered,8.0,3.0,Binge watcher,2,"[8.0,3.0]",2
-561,9f9f9fdf-92e7-af14-0692-647f88c2,Late - Unregistered,8.0,0.0,Binge watcher,2,"[8.0,0.0]",2
-562,a3ec40af-975f-ba01-2db3-3caa97d9,Late - Unregistered,11.0,2.0,Binge watcher,2,"[11.0,2.0]",2
-563,a52f2bc6-a117-0f22-9ee9-126d536e,Late - Unregistered,11.0,0.0,Binge watcher,2,"[11.0,0.0]",2
-564,af4c2645-6fb3-16d2-5660-862ba713,Late - Unregistered,10.0,0.0,Binge watcher,2,"[10.0,0.0]",2
-565,b37edebf-8ae7-aa45-24a6-a71ab0cf,Late - Unregistered,0.0,4.0,Regular,1,"[0.0,4.0]",0
-566,b543862d-e79a-96e0-43de-2a3df236,Late - Unregistered,0.0,5.0,Regular,1,"[0.0,5.0]",0
-567,bd5f2e42-b664-0cc9-37b0-15736f11,Late - Unregistered,10.0,2.0,Binge watcher,2,"[10.0,2.0]",2
-568,bd68cd15-7a72-7240-6a6d-11fdf386,Late - Unregistered,6.0,1.0,Binge watcher,2,"[6.0,1.0]",1
-569,be606175-e63e-f12e-d947-27baefe1,Late - Unregistered,13.0,0.0,Binge watcher,2,"[13.0,0.0]",2
-570,c1d60570-2cbc-37b1-9e8a-4883bae7,Late - Unregistered,12.0,1.0,Binge watcher,2,"[12.0,1.0]",2
-571,cd63ab01-8f40-afeb-0b3d-ca6de10f,Late - Unregistered,13.0,0.0,Binge watcher,2,"[13.0,0.0]",2
-572,d240496b-e2cf-209d-80f4-6a24fbd7,Late - Unregistered,9.0,2.0,Binge watcher,2,"[9.0,2.0]",2
-573,d48858c6-80ce-2e95-a74a-8d955a9e,Late - Unregistered,4.0,1.0,Binge watcher,2,"[4.0,1.0]",1
-574,db0c804a-a6ad-cb9d-d037-84256d49,Late - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-575,e84ee6a5-b0be-fe4d-cee9-c9846350,Late - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-576,e8f759fe-33ca-af05-511a-3b4aa7f5,Late - Unregistered,4.0,0.0,Binge watcher,2,"[4.0,0.0]",1
-577,e996ed9e-cf46-2cad-2e67-5688856d,Late - Unregistered,12.0,1.0,Binge watcher,2,"[12.0,1.0]",2
-578,eabfeaaa-351b-e551-fd2b-3e6d0f45,Late - Unregistered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
-579,ef41223d-f80f-838d-f944-d7c278c7,Late - Unregistered,4.0,1.0,Binge watcher,2,"[4.0,1.0]",1
-580,f309c633-16b6-7dc6-6a93-65789e3f,Late - Unregistered,6.0,0.0,Binge watcher,2,"[6.0,0.0]",1
-581,fb1d6ed7-6e3b-21ed-c1d0-d1456834,Late - Unregistered,5.0,0.0,Binge watcher,2,"[5.0,0.0]",1
+,user,cat,intensitybinge,intensityregular,nbVideos,intensitybehavior,intensityClasses,features,prediction
+0,AB,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+1,Albert,Ordinary - Registered,0.3076923076923077,0.6923076923076923,13.0,Regular,1,"[0.3076923076923077,0.6923076923076923]",0
+2,Aleksander Valant,Ordinary - Registered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+3,alenka dornik,Ordinary - Registered,0.25,0.75,12.0,Regular,1,"[0.25,0.75]",0
+4,Alenka Neudauer,Ordinary - Registered,0.0,1.0,12.0,Regular,1,"[0.0,1.0]",0
+5,alesj,Ordinary - Registered,0.6,0.4,5.0,Binge watcher,2,"[0.6,0.4]",2
+6,alexhana,Ordinary - Registered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+7,alja,Ordinary - Registered,0.0,1.0,8.0,Regular,1,"[0.0,1.0]",0
+8,Aljaž,Ordinary - Registered,0.0,1.0,11.0,Regular,1,"[0.0,1.0]",0
+9,amanita.amanita,Ordinary - Registered,0.6923076923076923,0.3076923076923077,13.0,Binge watcher,2,"[0.6923076923076923,0.3076923076923077]",2
+10,Ana Horvath,Ordinary - Registered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+11,Ana Stadler,Ordinary - Registered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+12,AnaPetar,Ordinary - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+13,AnBn,Ordinary - Registered,0.25,0.75,12.0,Regular,1,"[0.25,0.75]",0
+14,Ando Saina,Ordinary - Registered,0.0,1.0,11.0,Regular,1,"[0.0,1.0]",0
+15,Andraž Šunkar,Ordinary - Registered,0.0,1.0,11.0,Regular,1,"[0.0,1.0]",0
+16,andrea vlastelica,Ordinary - Registered,0.4166666666666667,0.5833333333333334,12.0,Regular,1,"[0.4166666666666667,0.5833333333333334]",0
+17,andrea zavorovic,Ordinary - Registered,0.75,0.25,8.0,Binge watcher,2,"[0.75,0.25]",2
+18,Andrej_A,Ordinary - Registered,0.7272727272727273,0.2727272727272727,11.0,Binge watcher,2,"[0.7272727272727273,0.2727272727272727]",2
+19,Andro Zuanic,Ordinary - Registered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+20,andrzej,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+21,ane,Ordinary - Registered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+22,Anela,Ordinary - Registered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+23,Ankica,Ordinary - Registered,1.0,0.0,11.0,Binge watcher,2,"[1.0,0.0]",1
+24,Annie,Ordinary - Registered,0.0,1.0,13.0,Regular,1,"[0.0,1.0]",0
+25,ante vrataric,Ordinary - Registered,0.5,0.5,6.0,Mix,0,"[0.5,0.5]",2
+26,anton janeš,Ordinary - Registered,0.7272727272727273,0.2727272727272727,11.0,Binge watcher,2,"[0.7272727272727273,0.2727272727272727]",2
+27,Anze-G,Ordinary - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+28,Anzze99,Ordinary - Registered,0.3333333333333333,0.6666666666666666,9.0,Regular,1,"[0.3333333333333333,0.6666666666666666]",0
+29,Apsirtgirl,Ordinary - Registered,0.42857142857142855,0.5714285714285714,7.0,Regular,1,"[0.42857142857142855,0.5714285714285714]",0
+30,benjamin,Ordinary - Registered,1.0,0.0,6.0,Binge watcher,2,"[1.0,0.0]",1
+31,blaz02,Ordinary - Registered,1.0,0.0,6.0,Binge watcher,2,"[1.0,0.0]",1
+32,Bojan1825,Ordinary - Registered,0.3333333333333333,0.6666666666666666,12.0,Regular,1,"[0.3333333333333333,0.6666666666666666]",0
+33,BORIS MREVLJE,Ordinary - Registered,0.875,0.125,8.0,Binge watcher,2,"[0.875,0.125]",1
+34,Boštjan M.,Ordinary - Registered,0.0,1.0,7.0,Regular,1,"[0.0,1.0]",0
+35,BostjanH,Ordinary - Registered,0.9230769230769231,0.07692307692307693,13.0,Binge watcher,2,"[0.9230769230769231,0.07692307692307693]",1
+36,BoštjanK,Ordinary - Registered,0.0,1.0,13.0,Regular,1,"[0.0,1.0]",0
+37,Branklo,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+38,BrunoB,Ordinary - Registered,0.0,1.0,9.0,Regular,1,"[0.0,1.0]",0
+39,Buda,Ordinary - Registered,1.0,0.0,6.0,Binge watcher,2,"[1.0,0.0]",1
+40,Buki,Ordinary - Registered,0.0,1.0,10.0,Regular,1,"[0.0,1.0]",0
+41,chibu79,Ordinary - Registered,0.0,1.0,12.0,Regular,1,"[0.0,1.0]",0
+42,Cromiza,Ordinary - Registered,0.7272727272727273,0.2727272727272727,11.0,Binge watcher,2,"[0.7272727272727273,0.2727272727272727]",2
+43,cvjetko,Ordinary - Registered,0.0,1.0,12.0,Regular,1,"[0.0,1.0]",0
+44,Dalka,Ordinary - Registered,0.0,1.0,8.0,Regular,1,"[0.0,1.0]",0
+45,Damir Mulalic,Ordinary - Registered,0.6666666666666666,0.3333333333333333,12.0,Binge watcher,2,"[0.6666666666666666,0.3333333333333333]",2
+46,damir.juretic,Ordinary - Registered,0.0,1.0,11.0,Regular,1,"[0.0,1.0]",0
+47,Danilo4783,Ordinary - Registered,0.8181818181818182,0.18181818181818182,11.0,Binge watcher,2,"[0.8181818181818182,0.18181818181818182]",1
+48,Dario,Ordinary - Registered,0.6666666666666666,0.3333333333333333,9.0,Binge watcher,2,"[0.6666666666666666,0.3333333333333333]",2
+49,DarioR,Ordinary - Registered,0.5714285714285714,0.42857142857142855,7.0,Binge watcher,2,"[0.5714285714285714,0.42857142857142855]",2
+50,Darko Babic,Ordinary - Registered,0.0,1.0,13.0,Regular,1,"[0.0,1.0]",0
+51,Dejan Adamic,Ordinary - Registered,0.23076923076923078,0.7692307692307693,13.0,Regular,1,"[0.23076923076923078,0.7692307692307693]",0
+52,DejanJ,Ordinary - Registered,0.0,1.0,13.0,Regular,1,"[0.0,1.0]",0
+53,delimir,Ordinary - Registered,1.0,0.0,11.0,Binge watcher,2,"[1.0,0.0]",1
+54,demirel,Ordinary - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+55,Deni Oreb,Ordinary - Registered,1.0,0.0,11.0,Binge watcher,2,"[1.0,0.0]",1
+56,Dimen,Ordinary - Registered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+57,dkervina,Ordinary - Registered,0.5,0.5,8.0,Binge watcher,2,"[0.5,0.5]",2
+58,dmeic,Ordinary - Registered,0.9230769230769231,0.07692307692307693,13.0,Binge watcher,2,"[0.9230769230769231,0.07692307692307693]",1
+59,Domen S,Ordinary - Registered,0.0,1.0,12.0,Regular,1,"[0.0,1.0]",0
+60,Dorsi,Ordinary - Registered,0.6,0.4,10.0,Binge watcher,2,"[0.6,0.4]",2
+61,dragana,Ordinary - Registered,0.8571428571428571,0.14285714285714285,7.0,Binge watcher,2,"[0.8571428571428571,0.14285714285714285]",1
+62,Dražen,Ordinary - Registered,0.4444444444444444,0.5555555555555556,9.0,Regular,1,"[0.4444444444444444,0.5555555555555556]",0
+63,drejc,Ordinary - Registered,0.0,1.0,11.0,Regular,1,"[0.0,1.0]",0
+64,Duši,Ordinary - Registered,0.5,0.5,8.0,Binge watcher,2,"[0.5,0.5]",2
+65,Edvard,Ordinary - Registered,0.0,1.0,9.0,Regular,1,"[0.0,1.0]",0
+66,Efa i Neno,Ordinary - Registered,0.38461538461538464,0.6153846153846154,13.0,Regular,1,"[0.38461538461538464,0.6153846153846154]",0
+67,Elena Nikolovska,Ordinary - Registered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+68,Ferijan Perkovic,Ordinary - Registered,0.4444444444444444,0.5555555555555556,9.0,Regular,1,"[0.4444444444444444,0.5555555555555556]",0
+69,filip mestrovic,Ordinary - Registered,0.42857142857142855,0.5714285714285714,7.0,Regular,1,"[0.42857142857142855,0.5714285714285714]",0
+70,Gasper,Ordinary - Registered,0.42857142857142855,0.5714285714285714,7.0,Regular,1,"[0.42857142857142855,0.5714285714285714]",0
+71,gcampa,Ordinary - Registered,0.25,0.75,12.0,Regular,1,"[0.25,0.75]",0
+72,GITA MARINKOVIC,Ordinary - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+73,Goran Cacic,Ordinary - Registered,0.75,0.25,12.0,Binge watcher,2,"[0.75,0.25]",2
+74,Goran Ðurica,Ordinary - Registered,0.5384615384615384,0.46153846153846156,13.0,Binge watcher,2,"[0.5384615384615384,0.46153846153846156]",2
+75,Gordan,Ordinary - Registered,0.6923076923076923,0.3076923076923077,13.0,Binge watcher,2,"[0.6923076923076923,0.3076923076923077]",2
+76,Gordana Genc,Ordinary - Registered,0.0,1.0,9.0,Regular,1,"[0.0,1.0]",0
+77,gpet,Ordinary - Registered,0.25,0.75,12.0,Regular,1,"[0.25,0.75]",0
+78,Gregor Primc,Ordinary - Registered,0.0,1.0,12.0,Regular,1,"[0.0,1.0]",0
+79,greta,Ordinary - Registered,0.5714285714285714,0.42857142857142855,7.0,Binge watcher,2,"[0.5714285714285714,0.42857142857142855]",2
+80,Grozdana Sirotic,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+81,Grup amor,Ordinary - Registered,0.3333333333333333,0.6666666666666666,9.0,Regular,1,"[0.3333333333333333,0.6666666666666666]",0
+82,HanaP,Ordinary - Registered,0.6,0.4,5.0,Binge watcher,2,"[0.6,0.4]",2
+83,Hrvoje Juvancic,Ordinary - Registered,0.3333333333333333,0.6666666666666666,9.0,Regular,1,"[0.3333333333333333,0.6666666666666666]",0
+84,Igor Šutic,Ordinary - Registered,0.0,1.0,13.0,Regular,1,"[0.0,1.0]",0
+85,Igor Žafran,Ordinary - Registered,0.0,1.0,13.0,Regular,1,"[0.0,1.0]",0
+86,Igor29,Ordinary - Registered,0.8333333333333334,0.16666666666666666,6.0,Binge watcher,2,"[0.8333333333333334,0.16666666666666666]",1
+87,IgorGancevic,Ordinary - Registered,0.75,0.25,8.0,Binge watcher,2,"[0.75,0.25]",2
+88,igorr,Ordinary - Registered,0.6666666666666666,0.3333333333333333,9.0,Binge watcher,2,"[0.6666666666666666,0.3333333333333333]",2
+89,iivana,Ordinary - Registered,0.42857142857142855,0.5714285714285714,7.0,Regular,1,"[0.42857142857142855,0.5714285714285714]",0
+90,Ina,Ordinary - Registered,0.0,1.0,10.0,Regular,1,"[0.0,1.0]",0
+91,Ines,Ordinary - Registered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+92,Ivan Odrljin,Ordinary - Registered,0.0,1.0,13.0,Regular,1,"[0.0,1.0]",0
+93,Ivana PR,Ordinary - Registered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+94,IvanV,Ordinary - Registered,0.6666666666666666,0.3333333333333333,6.0,Binge watcher,2,"[0.6666666666666666,0.3333333333333333]",2
+95,Ivica Komljenovic,Ordinary - Registered,0.9230769230769231,0.07692307692307693,13.0,Binge watcher,2,"[0.9230769230769231,0.07692307692307693]",1
+96,Iztok3,Ordinary - Registered,0.8,0.2,10.0,Binge watcher,2,"[0.8,0.2]",2
+97,jadralec Jaro,Ordinary - Registered,0.0,1.0,8.0,Regular,1,"[0.0,1.0]",0
+98,Jadran,Ordinary - Registered,0.0,1.0,12.0,Regular,1,"[0.0,1.0]",0
+99,Janez  stupica,Ordinary - Registered,0.375,0.625,8.0,Regular,1,"[0.375,0.625]",0
+100,Jani Pristavec,Ordinary - Registered,0.0,1.0,13.0,Regular,1,"[0.0,1.0]",0
+101,Jaroš,Ordinary - Registered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+102,Jasminka,Ordinary - Registered,0.42857142857142855,0.5714285714285714,7.0,Regular,1,"[0.42857142857142855,0.5714285714285714]",0
+103,jelena,Ordinary - Registered,0.0,1.0,11.0,Regular,1,"[0.0,1.0]",0
+104,Jelena-Marija,Ordinary - Registered,0.6363636363636364,0.36363636363636365,11.0,Binge watcher,2,"[0.6363636363636364,0.36363636363636365]",2
+105,Jelena Cutura,Ordinary - Registered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+106,jerko,Ordinary - Registered,0.5,0.5,12.0,Binge watcher,2,"[0.5,0.5]",2
+107,Jerko. Marinkovic,Ordinary - Registered,0.4166666666666667,0.5833333333333334,12.0,Regular,1,"[0.4166666666666667,0.5833333333333334]",0
+108,Josip Rabanasic,Ordinary - Registered,0.42857142857142855,0.5714285714285714,7.0,Regular,1,"[0.42857142857142855,0.5714285714285714]",0
+109,josko52@gmail.com,Ordinary - Registered,0.8571428571428571,0.14285714285714285,7.0,Binge watcher,2,"[0.8571428571428571,0.14285714285714285]",1
+110,JOZE,Ordinary - Registered,0.8,0.2,5.0,Binge watcher,2,"[0.8,0.2]",2
+111,Jožko,Ordinary - Registered,0.0,1.0,10.0,Regular,1,"[0.0,1.0]",0
+112,Jure Gros,Ordinary - Registered,0.5384615384615384,0.46153846153846156,13.0,Binge watcher,2,"[0.5384615384615384,0.46153846153846156]",2
+113,jure111,Ordinary - Registered,1.0,0.0,6.0,Binge watcher,2,"[1.0,0.0]",1
+114,jurebizjak,Ordinary - Registered,0.0,1.0,12.0,Regular,1,"[0.0,1.0]",0
+115,kapitan72,Ordinary - Registered,0.3333333333333333,0.6666666666666666,9.0,Regular,1,"[0.3333333333333333,0.6666666666666666]",0
+116,Karla,Ordinary - Registered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+117,Karmen Hrvatic,Ordinary - Registered,0.5454545454545454,0.45454545454545453,11.0,Binge watcher,2,"[0.5454545454545454,0.45454545454545453]",2
+118,Katarina Šedlbauer,Ordinary - Registered,0.8571428571428571,0.14285714285714285,7.0,Binge watcher,2,"[0.8571428571428571,0.14285714285714285]",1
+119,kec,Ordinary - Registered,0.7692307692307693,0.23076923076923078,13.0,Binge watcher,2,"[0.7692307692307693,0.23076923076923078]",2
+120,kemi,Ordinary - Registered,0.0,1.0,8.0,Regular,1,"[0.0,1.0]",0
+121,Kiklop,Ordinary - Registered,0.5454545454545454,0.45454545454545453,11.0,Binge watcher,2,"[0.5454545454545454,0.45454545454545453]",2
+122,KlaraM,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+123,Kreso,Ordinary - Registered,0.8333333333333334,0.16666666666666666,12.0,Binge watcher,2,"[0.8333333333333334,0.16666666666666666]",1
+124,Kristijan Lopac,Ordinary - Registered,0.5454545454545454,0.45454545454545453,11.0,Binge watcher,2,"[0.5454545454545454,0.45454545454545453]",2
+125,Ksenija Sekulic,Ordinary - Registered,0.4166666666666667,0.5833333333333334,12.0,Regular,1,"[0.4166666666666667,0.5833333333333334]",0
+126,Kskoric,Ordinary - Registered,0.6,0.4,10.0,Binge watcher,2,"[0.6,0.4]",2
+127,Kvasina,Ordinary - Registered,0.7272727272727273,0.2727272727272727,11.0,Binge watcher,2,"[0.7272727272727273,0.2727272727272727]",2
+128,Labura,Ordinary - Registered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+129,Lana,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+130,Lea Svilicic,Ordinary - Registered,0.25,0.75,12.0,Regular,1,"[0.25,0.75]",0
+131,Leo Mihaljevic,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+132,ljubica basic,Ordinary - Registered,0.0,1.0,13.0,Regular,1,"[0.0,1.0]",0
+133,Luc,Ordinary - Registered,0.0,1.0,11.0,Regular,1,"[0.0,1.0]",0
+134,lucijan,Ordinary - Registered,0.38461538461538464,0.6153846153846154,13.0,Regular,1,"[0.38461538461538464,0.6153846153846154]",0
+135,ludmilla,Ordinary - Registered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+136,Luka Skocir,Ordinary - Registered,0.5555555555555556,0.4444444444444444,9.0,Binge watcher,2,"[0.5555555555555556,0.4444444444444444]",2
+137,luka.voncina,Ordinary - Registered,0.25,0.75,12.0,Regular,1,"[0.25,0.75]",0
+138,lukaaa11,Ordinary - Registered,0.5,0.5,6.0,Mix,0,"[0.5,0.5]",2
+139,Lupodimare,Ordinary - Registered,0.5,0.5,6.0,Mix,0,"[0.5,0.5]",2
+140,Maja Demaria,Ordinary - Registered,0.5,0.5,10.0,Mix,0,"[0.5,0.5]",2
+141,Maja Grinek,Ordinary - Registered,0.6666666666666666,0.3333333333333333,9.0,Binge watcher,2,"[0.6666666666666666,0.3333333333333333]",2
+142,maja laurence,Ordinary - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+143,MajaM,Ordinary - Registered,0.6923076923076923,0.3076923076923077,13.0,Binge watcher,2,"[0.6923076923076923,0.3076923076923077]",2
+144,Mare_,Ordinary - Registered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+145,mare10,Ordinary - Registered,0.8571428571428571,0.14285714285714285,7.0,Binge watcher,2,"[0.8571428571428571,0.14285714285714285]",1
+146,Maria,Ordinary - Registered,0.0,1.0,8.0,Regular,1,"[0.0,1.0]",0
+147,Marijana,Ordinary - Registered,0.5714285714285714,0.42857142857142855,7.0,Binge watcher,2,"[0.5714285714285714,0.42857142857142855]",2
+148,MARINO BRZAC,Ordinary - Registered,0.8333333333333334,0.16666666666666666,12.0,Binge watcher,2,"[0.8333333333333334,0.16666666666666666]",1
+149,Mario Bursac,Ordinary - Registered,0.0,1.0,9.0,Regular,1,"[0.0,1.0]",0
+150,Mario91,Ordinary - Registered,1.0,0.0,9.0,Binge watcher,2,"[1.0,0.0]",1
+151,Marjan Henigman,Ordinary - Registered,0.0,1.0,11.0,Regular,1,"[0.0,1.0]",0
+152,Markisha,Ordinary - Registered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+153,Marko Dundovic,Ordinary - Registered,0.46153846153846156,0.5384615384615384,13.0,Regular,1,"[0.46153846153846156,0.5384615384615384]",0
+154,Marko Kralj,Ordinary - Registered,0.6,0.4,5.0,Binge watcher,2,"[0.6,0.4]",2
+155,Marko L,Ordinary - Registered,0.75,0.25,12.0,Binge watcher,2,"[0.75,0.25]",2
+156,marko maticic,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+157,Maša,Ordinary - Registered,0.3,0.7,10.0,Regular,1,"[0.3,0.7]",0
+158,masa sarusic,Ordinary - Registered,0.25,0.75,12.0,Regular,1,"[0.25,0.75]",0
+159,Mate Vitaljic,Ordinary - Registered,0.0,1.0,10.0,Regular,1,"[0.0,1.0]",0
+160,Matija Osterc,Ordinary - Registered,0.7692307692307693,0.23076923076923078,13.0,Binge watcher,2,"[0.7692307692307693,0.23076923076923078]",2
+161,Matija Turkalj,Ordinary - Registered,0.5454545454545454,0.45454545454545453,11.0,Binge watcher,2,"[0.5454545454545454,0.45454545454545453]",2
+162,Matjazzavrl,Ordinary - Registered,0.5,0.5,8.0,Binge watcher,2,"[0.5,0.5]",2
+163,Mauro,Ordinary - Registered,0.3333333333333333,0.6666666666666666,9.0,Regular,1,"[0.3333333333333333,0.6666666666666666]",0
+164,MedoPiki,Ordinary - Registered,0.6923076923076923,0.3076923076923077,13.0,Binge watcher,2,"[0.6923076923076923,0.3076923076923077]",2
+165,melina lakoš,Ordinary - Registered,1.0,0.0,9.0,Binge watcher,2,"[1.0,0.0]",1
+166,mihaelas,Ordinary - Registered,1.0,0.0,9.0,Binge watcher,2,"[1.0,0.0]",1
+167,Miho,Ordinary - Registered,0.2727272727272727,0.7272727272727273,11.0,Regular,1,"[0.2727272727272727,0.7272727272727273]",0
+168,Milan Kuraš,Ordinary - Registered,0.6923076923076923,0.3076923076923077,13.0,Binge watcher,2,"[0.6923076923076923,0.3076923076923077]",2
+169,Mirela,Ordinary - Registered,0.6923076923076923,0.3076923076923077,13.0,Binge watcher,2,"[0.6923076923076923,0.3076923076923077]",2
+170,Mirjana Puškarski,Ordinary - Registered,0.0,1.0,8.0,Regular,1,"[0.0,1.0]",0
+171,Mirkomatic,Ordinary - Registered,0.6153846153846154,0.38461538461538464,13.0,Binge watcher,2,"[0.6153846153846154,0.38461538461538464]",2
+172,miroc,Ordinary - Registered,1.0,0.0,6.0,Binge watcher,2,"[1.0,0.0]",1
+173,Mišo,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+174,MojcaDamijan,Ordinary - Registered,0.38461538461538464,0.6153846153846154,13.0,Regular,1,"[0.38461538461538464,0.6153846153846154]",0
+175,Nataša,Ordinary - Registered,0.0,1.0,7.0,Regular,1,"[0.0,1.0]",0
+176,Nejc Kodric,Ordinary - Registered,0.6923076923076923,0.3076923076923077,13.0,Binge watcher,2,"[0.6923076923076923,0.3076923076923077]",2
+177,Nejc Likar,Ordinary - Registered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+178,nenad,Ordinary - Registered,0.0,1.0,7.0,Regular,1,"[0.0,1.0]",0
+179,NenadS,Ordinary - Registered,0.5833333333333334,0.4166666666666667,12.0,Binge watcher,2,"[0.5833333333333334,0.4166666666666667]",2
+180,Neven,Ordinary - Registered,0.23076923076923078,0.7692307692307693,13.0,Regular,1,"[0.23076923076923078,0.7692307692307693]",0
+181,Niko Vukusic,Ordinary - Registered,0.3333333333333333,0.6666666666666666,12.0,Regular,1,"[0.3333333333333333,0.6666666666666666]",0
+182,niko.mihovilovic,Ordinary - Registered,0.0,1.0,12.0,Regular,1,"[0.0,1.0]",0
+183,Nikola Baržic,Ordinary - Registered,0.7142857142857143,0.2857142857142857,7.0,Binge watcher,2,"[0.7142857142857143,0.2857142857142857]",2
+184,Nikoleta,Ordinary - Registered,0.4,0.6,10.0,Regular,1,"[0.4,0.6]",0
+185,nikonikokaoja,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+186,Oaky,Ordinary - Registered,0.3333333333333333,0.6666666666666666,9.0,Regular,1,"[0.3333333333333333,0.6666666666666666]",0
+187,Ojiga,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+188,Pavle,Ordinary - Registered,0.23076923076923078,0.7692307692307693,13.0,Regular,1,"[0.23076923076923078,0.7692307692307693]",0
+189,pedro,Ordinary - Registered,1.0,0.0,10.0,Binge watcher,2,"[1.0,0.0]",1
+190,peri,Ordinary - Registered,0.0,1.0,13.0,Regular,1,"[0.0,1.0]",0
+191,Pero,Ordinary - Registered,0.6666666666666666,0.3333333333333333,9.0,Binge watcher,2,"[0.6666666666666666,0.3333333333333333]",2
+192,Petar,Ordinary - Registered,0.5833333333333334,0.4166666666666667,12.0,Binge watcher,2,"[0.5833333333333334,0.4166666666666667]",2
+193,PeterKogej,Ordinary - Registered,0.7272727272727273,0.2727272727272727,11.0,Binge watcher,2,"[0.7272727272727273,0.2727272727272727]",2
+194,PetraP,Ordinary - Registered,0.0,1.0,10.0,Regular,1,"[0.0,1.0]",0
+195,Pina,Ordinary - Registered,0.0,1.0,13.0,Regular,1,"[0.0,1.0]",0
+196,Pino,Ordinary - Registered,0.6666666666666666,0.3333333333333333,9.0,Binge watcher,2,"[0.6666666666666666,0.3333333333333333]",2
+197,Pirko,Ordinary - Registered,0.6666666666666666,0.3333333333333333,12.0,Binge watcher,2,"[0.6666666666666666,0.3333333333333333]",2
+198,Pjerino,Ordinary - Registered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+199,Pjero,Ordinary - Registered,0.0,1.0,9.0,Regular,1,"[0.0,1.0]",0
+200,Plavac_mali,Ordinary - Registered,0.4166666666666667,0.5833333333333334,12.0,Regular,1,"[0.4166666666666667,0.5833333333333334]",0
+201,plombar,Ordinary - Registered,0.3076923076923077,0.6923076923076923,13.0,Regular,1,"[0.3076923076923077,0.6923076923076923]",0
+202,Pokmon,Ordinary - Registered,0.5,0.5,12.0,Binge watcher,2,"[0.5,0.5]",2
+203,Pokret Otoka,Ordinary - Registered,0.42857142857142855,0.5714285714285714,7.0,Regular,1,"[0.42857142857142855,0.5714285714285714]",0
+204,Polona,Ordinary - Registered,0.23076923076923078,0.7692307692307693,13.0,Regular,1,"[0.23076923076923078,0.7692307692307693]",0
+205,Primosius,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+206,RadoL,Ordinary - Registered,0.5833333333333334,0.4166666666666667,12.0,Binge watcher,2,"[0.5833333333333334,0.4166666666666667]",2
+207,Ramo,Ordinary - Registered,0.23076923076923078,0.7692307692307693,13.0,Regular,1,"[0.23076923076923078,0.7692307692307693]",0
+208,Rebeka,Ordinary - Registered,0.46153846153846156,0.5384615384615384,13.0,Regular,1,"[0.46153846153846156,0.5384615384615384]",0
+209,RobiF,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+210,rocco337,Ordinary - Registered,1.0,0.0,9.0,Binge watcher,2,"[1.0,0.0]",1
+211,Rok321,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+212,Roki,Ordinary - Registered,0.46153846153846156,0.5384615384615384,13.0,Regular,1,"[0.46153846153846156,0.5384615384615384]",0
+213,rokian,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+214,Romana,Ordinary - Registered,0.3333333333333333,0.6666666666666666,9.0,Regular,1,"[0.3333333333333333,0.6666666666666666]",0
+215,ruzica kovacevic,Ordinary - Registered,0.25,0.75,12.0,Regular,1,"[0.25,0.75]",0
+216,Sailman,Ordinary - Registered,0.3333333333333333,0.6666666666666666,12.0,Regular,1,"[0.3333333333333333,0.6666666666666666]",0
+217,Salieri,Ordinary - Registered,0.8333333333333334,0.16666666666666666,12.0,Binge watcher,2,"[0.8333333333333334,0.16666666666666666]",1
+218,Sandi,Ordinary - Registered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+219,sawyer,Ordinary - Registered,0.9230769230769231,0.07692307692307693,13.0,Binge watcher,2,"[0.9230769230769231,0.07692307692307693]",1
+220,shrike,Ordinary - Registered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+221,Silvestar Tokic,Ordinary - Registered,0.6923076923076923,0.3076923076923077,13.0,Binge watcher,2,"[0.6923076923076923,0.3076923076923077]",2
+222,Šimun Zamberlin,Ordinary - Registered,0.0,1.0,13.0,Regular,1,"[0.0,1.0]",0
+223,Škatja,Ordinary - Registered,0.5714285714285714,0.42857142857142855,7.0,Binge watcher,2,"[0.5714285714285714,0.42857142857142855]",2
+224,slipke,Ordinary - Registered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+225,splicho,Ordinary - Registered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+226,staneb,Ordinary - Registered,0.25,0.75,12.0,Regular,1,"[0.25,0.75]",0
+227,Stanojevic,Ordinary - Registered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+228,stipica,Ordinary - Registered,0.46153846153846156,0.5384615384615384,13.0,Regular,1,"[0.46153846153846156,0.5384615384615384]",0
+229,TAMARA L.,Ordinary - Registered,0.0,1.0,13.0,Regular,1,"[0.0,1.0]",0
+230,tasa,Ordinary - Registered,0.42857142857142855,0.5714285714285714,7.0,Regular,1,"[0.42857142857142855,0.5714285714285714]",0
+231,Tatjana,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+232,tibor,Ordinary - Registered,0.5,0.5,6.0,Mix,0,"[0.5,0.5]",2
+233,Tina Kiler,Ordinary - Registered,0.5384615384615384,0.46153846153846156,13.0,Binge watcher,2,"[0.5384615384615384,0.46153846153846156]",2
+234,Tjaša,Ordinary - Registered,0.25,0.75,12.0,Regular,1,"[0.25,0.75]",0
+235,Tojo,Ordinary - Registered,0.8333333333333334,0.16666666666666666,12.0,Binge watcher,2,"[0.8333333333333334,0.16666666666666666]",1
+236,tomaz1961,Ordinary - Registered,0.0,1.0,12.0,Regular,1,"[0.0,1.0]",0
+237,tomba,Ordinary - Registered,0.3333333333333333,0.6666666666666666,9.0,Regular,1,"[0.3333333333333333,0.6666666666666666]",0
+238,Tome,Ordinary - Registered,0.0,1.0,7.0,Regular,1,"[0.0,1.0]",0
+239,Tomica,Ordinary - Registered,0.0,1.0,7.0,Regular,1,"[0.0,1.0]",0
+240,Tomislav Cipcic,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+241,TonCa,Ordinary - Registered,0.5384615384615384,0.46153846153846156,13.0,Binge watcher,2,"[0.5384615384615384,0.46153846153846156]",2
+242,toni88,Ordinary - Registered,0.9166666666666666,0.08333333333333333,12.0,Binge watcher,2,"[0.9166666666666666,0.08333333333333333]",1
+243,Tpk,Ordinary - Registered,0.0,1.0,7.0,Regular,1,"[0.0,1.0]",0
+244,Trojan,Ordinary - Registered,0.0,1.0,9.0,Regular,1,"[0.0,1.0]",0
+245,Urle,Ordinary - Registered,1.0,0.0,13.0,Binge watcher,2,"[1.0,0.0]",1
+246,Urosv,Ordinary - Registered,0.25,0.75,12.0,Regular,1,"[0.25,0.75]",0
+247,vanja123,Ordinary - Registered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+248,Vedran,Ordinary - Registered,0.0,1.0,11.0,Regular,1,"[0.0,1.0]",0
+249,Vedran_499,Ordinary - Registered,0.0,1.0,7.0,Regular,1,"[0.0,1.0]",0
+250,vedrana,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+251,vibord,Ordinary - Registered,0.46153846153846156,0.5384615384615384,13.0,Regular,1,"[0.46153846153846156,0.5384615384615384]",0
+252,vid,Ordinary - Registered,0.5454545454545454,0.45454545454545453,11.0,Binge watcher,2,"[0.5454545454545454,0.45454545454545453]",2
+253,Vido,Ordinary - Registered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+254,Vido Repanšek,Ordinary - Registered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+255,Viktor Vic,Ordinary - Registered,0.0,1.0,11.0,Regular,1,"[0.0,1.0]",0
+256,vini,Ordinary - Registered,0.3,0.7,10.0,Regular,1,"[0.3,0.7]",0
+257,Vlado,Ordinary - Registered,0.0,1.0,11.0,Regular,1,"[0.0,1.0]",0
+258,Vlajko,Ordinary - Registered,0.6153846153846154,0.38461538461538464,13.0,Binge watcher,2,"[0.6153846153846154,0.38461538461538464]",2
+259,Vlasta Svetina,Ordinary - Registered,1.0,0.0,12.0,Binge watcher,2,"[1.0,0.0]",1
+260,wavemaker,Ordinary - Registered,0.3333333333333333,0.6666666666666666,12.0,Regular,1,"[0.3333333333333333,0.6666666666666666]",0
+261,x,Ordinary - Registered,0.9,0.1,10.0,Binge watcher,2,"[0.9,0.1]",1
+262,Žanetic,Ordinary - Registered,1.0,0.0,13.0,Binge watcher,2,"[1.0,0.0]",1
+263,Zdenko,Ordinary - Registered,0.6,0.4,5.0,Binge watcher,2,"[0.6,0.4]",2
+264,Zdenko Škrlj,Ordinary - Registered,0.46153846153846156,0.5384615384615384,13.0,Regular,1,"[0.46153846153846156,0.5384615384615384]",0
+265,Zdravko,Ordinary - Registered,0.23076923076923078,0.7692307692307693,13.0,Regular,1,"[0.23076923076923078,0.7692307692307693]",0
+266,Živko Joncic,Ordinary - Registered,0.9230769230769231,0.07692307692307693,13.0,Binge watcher,2,"[0.9230769230769231,0.07692307692307693]",1
+267,zvjezdana,Ordinary - Registered,0.6,0.4,5.0,Binge watcher,2,"[0.6,0.4]",2
+268,Zvonimir Matic,Ordinary - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+269,003136ec-fd3a-908e-de7e-45301e3b,Ordinary - Unregistered,0.8,0.2,5.0,Binge watcher,2,"[0.8,0.2]",2
+270,0064c3fd-7e6e-425c-f754-34b889c8,Ordinary - Unregistered,1.0,0.0,6.0,Binge watcher,2,"[1.0,0.0]",1
+271,037820a7-a143-422c-3ebd-3553d373,Ordinary - Unregistered,1.0,0.0,7.0,Binge watcher,2,"[1.0,0.0]",1
+272,04745589-295d-158e-c6c0-ef24f730,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+273,04a7d779-f053-b1a3-386e-82d69979,Ordinary - Unregistered,1.0,0.0,7.0,Binge watcher,2,"[1.0,0.0]",1
+274,068616a9-816f-e8e4-d737-6ddba1df,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+275,06f2e041-7a2d-a0ab-5f48-fd01f0a2,Ordinary - Unregistered,1.0,0.0,11.0,Binge watcher,2,"[1.0,0.0]",1
+276,0781bbba-c179-f93c-1116-8d684911,Ordinary - Unregistered,0.8,0.2,5.0,Binge watcher,2,"[0.8,0.2]",2
+277,08ee9ac0-7656-2b25-ce41-b44d758e,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+278,0a84077c-d3fa-56fc-803c-a863ca7e,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+279,0c9621b0-ff94-77e8-727f-5420882d,Ordinary - Unregistered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+280,0e59235e-e51a-a5cd-e0ba-0fffe847,Ordinary - Unregistered,1.0,0.0,11.0,Binge watcher,2,"[1.0,0.0]",1
+281,101c246c-3f77-d919-ca38-8d19141e,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+282,10355f7a-f86a-830c-cbf1-fb3c40b6,Ordinary - Unregistered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+283,135b42ab-ac52-d14a-c37c-6ffeca28,Ordinary - Unregistered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+284,1459b8fd-ecab-4e30-1fc9-3d649648,Ordinary - Unregistered,1.0,0.0,7.0,Binge watcher,2,"[1.0,0.0]",1
+285,1496b095-5b5f-4c47-5066-49bcf5d6,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+286,14a5fec5-bb5b-cac7-e40e-9a363e5c,Ordinary - Unregistered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+287,16ba8f74-d9b7-c724-98c5-f31f43be,Ordinary - Unregistered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+288,17b4a5d5-5e2a-5bc2-a4e6-25e3d1d4,Ordinary - Unregistered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+289,195b9f52-3731-37a7-2c74-19d11cb6,Ordinary - Unregistered,1.0,0.0,7.0,Binge watcher,2,"[1.0,0.0]",1
+290,196bc15c-4aac-31e9-7c5d-3599ce10,Ordinary - Unregistered,0.8,0.2,5.0,Binge watcher,2,"[0.8,0.2]",2
+291,1acb1c12-47e9-e408-eaf9-8167947a,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+292,1b1cd7ac-2f24-1493-5d7e-d7873af1,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+293,1beb31a1-0aea-018e-a7e1-82085ffa,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+294,1c09a110-d9c3-2442-9f5d-aee802c0,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+295,1cb07e56-7b73-0087-0a17-3e9c1f88,Ordinary - Unregistered,0.5,0.5,8.0,Binge watcher,2,"[0.5,0.5]",2
+296,1d3ed189-1162-0dd0-bcb2-fda83a50,Ordinary - Unregistered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+297,1d66d118-9cc1-c6cd-c61c-02ca2ddc,Ordinary - Unregistered,0.6,0.4,5.0,Binge watcher,2,"[0.6,0.4]",2
+298,1d90b45b-4d8d-42a1-43cd-38e1a241,Ordinary - Unregistered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+299,1e81aa64-c3c9-ee4f-ce3c-c4248be0,Ordinary - Unregistered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+300,1f7f3fd7-7087-1461-cf43-9add2172,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+301,1f96865d-62d4-b049-1788-cfccf324,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+302,20e2fc85-7d0f-8a2c-b651-4b811a97,Ordinary - Unregistered,0.5,0.5,6.0,Mix,0,"[0.5,0.5]",2
+303,23e6f6c8-2cd0-ac1c-e8a1-f2338caa,Ordinary - Unregistered,1.0,0.0,12.0,Binge watcher,2,"[1.0,0.0]",1
+304,258d2e1f-e3e8-2612-8285-895fb96d,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+305,269144fa-ef0e-c81e-52ff-df9a348a,Ordinary - Unregistered,0.7692307692307693,0.23076923076923078,13.0,Binge watcher,2,"[0.7692307692307693,0.23076923076923078]",2
+306,270174bf-baf8-aab4-48e3-139fcf47,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+307,27080783-250a-3521-f816-6e7b29cf,Ordinary - Unregistered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+308,2c1d08f2-a1ba-6915-db46-1a7721b9,Ordinary - Unregistered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+309,2ee1d86b-74ed-47f3-5733-61cc4821,Ordinary - Unregistered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+310,2f7f0e40-1234-75db-2bcf-bdfbdfbc,Ordinary - Unregistered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+311,31a88be4-13ad-06c2-119c-3551a490,Ordinary - Unregistered,1.0,0.0,10.0,Binge watcher,2,"[1.0,0.0]",1
+312,3244a4c0-3f85-3017-5694-2f5647cb,Ordinary - Unregistered,0.0,1.0,7.0,Regular,1,"[0.0,1.0]",0
+313,3447bacb-f54d-55c2-592f-3a3ff765,Ordinary - Unregistered,0.75,0.25,8.0,Binge watcher,2,"[0.75,0.25]",2
+314,34a3d1d8-74eb-8a4e-0506-b9ca1551,Ordinary - Unregistered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+315,35813a40-7aa6-5336-237b-c93f1759,Ordinary - Unregistered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+316,35ce5334-aefb-9a61-d1c3-7f01a776,Ordinary - Unregistered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+317,35daa597-4591-5a82-57a9-1fba2635,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+318,367365a7-8d2a-3b00-f3e3-f877be3c,Ordinary - Unregistered,0.8571428571428571,0.14285714285714285,7.0,Binge watcher,2,"[0.8571428571428571,0.14285714285714285]",1
+319,3681eecc-7864-c1c1-0024-4d4234be,Ordinary - Unregistered,1.0,0.0,10.0,Binge watcher,2,"[1.0,0.0]",1
+320,36a67ef1-5f22-7846-3f95-faec67c9,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+321,37ada581-75c2-560e-2eb3-3db3a231,Ordinary - Unregistered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+322,37d73652-37e1-cc5f-6c84-3b9a528c,Ordinary - Unregistered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+323,380773a6-f975-22c8-187e-e40fe702,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+324,3be7d5a2-f78e-3472-e5ac-fa27ed08,Ordinary - Unregistered,0.6666666666666666,0.3333333333333333,6.0,Binge watcher,2,"[0.6666666666666666,0.3333333333333333]",2
+325,3c370e25-1bd5-c34b-ec40-31117752,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+326,3d524e1d-934c-6d53-022b-983c91c3,Ordinary - Unregistered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+327,3d7d0f75-dda5-644d-e527-018ff340,Ordinary - Unregistered,0.7272727272727273,0.2727272727272727,11.0,Binge watcher,2,"[0.7272727272727273,0.2727272727272727]",2
+328,3dc06a27-afe4-b105-1f3c-997851c7,Ordinary - Unregistered,0.8181818181818182,0.18181818181818182,11.0,Binge watcher,2,"[0.8181818181818182,0.18181818181818182]",1
+329,3e4346e0-6285-8776-f373-101eac22,Ordinary - Unregistered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+330,3e713aeb-dcb2-d6a8-962f-635df3e8,Ordinary - Unregistered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+331,3fc2e2fe-697a-3255-1a17-4204819d,Ordinary - Unregistered,0.5,0.5,8.0,Binge watcher,2,"[0.5,0.5]",2
+332,404bc704-6703-c3c0-815e-55c756c5,Ordinary - Unregistered,0.0,1.0,8.0,Regular,1,"[0.0,1.0]",0
+333,4196e8ee-e405-a1e1-4a7f-7d9149a5,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+334,42779e7e-90bc-7eac-5aa8-a9874f90,Ordinary - Unregistered,0.36363636363636365,0.6363636363636364,11.0,Regular,1,"[0.36363636363636365,0.6363636363636364]",0
+335,440d90ef-c7d7-0530-608e-8c0fc440,Ordinary - Unregistered,0.0,1.0,7.0,Regular,1,"[0.0,1.0]",0
+336,459f5319-edaf-cd53-126d-fdfb12a5,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+337,45d78fe4-7d30-3b18-371e-57bb06c7,Ordinary - Unregistered,1.0,0.0,9.0,Binge watcher,2,"[1.0,0.0]",1
+338,4641102c-f3d3-3878-6d00-1c49a28c,Ordinary - Unregistered,0.6363636363636364,0.36363636363636365,11.0,Binge watcher,2,"[0.6363636363636364,0.36363636363636365]",2
+339,4a97a9b2-74fe-c9f3-625f-0176bddf,Ordinary - Unregistered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+340,4b21d918-4ac0-0787-3094-37c9432c,Ordinary - Unregistered,0.9090909090909091,0.09090909090909091,11.0,Binge watcher,2,"[0.9090909090909091,0.09090909090909091]",1
+341,4bd540f6-e34d-4592-7680-b2735389,Ordinary - Unregistered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+342,4c4ac589-35f5-76e3-d0a3-fedab6c6,Ordinary - Unregistered,0.0,1.0,8.0,Regular,1,"[0.0,1.0]",0
+343,4cc576c8-f218-94be-fef3-4b6fd86e,Ordinary - Unregistered,0.6923076923076923,0.3076923076923077,13.0,Binge watcher,2,"[0.6923076923076923,0.3076923076923077]",2
+344,4d0232bc-202c-ee3a-e58c-e543848c,Ordinary - Unregistered,0.0,1.0,7.0,Regular,1,"[0.0,1.0]",0
+345,4debb215-7398-77ba-2243-94adbd31,Ordinary - Unregistered,0.8888888888888888,0.1111111111111111,9.0,Binge watcher,2,"[0.8888888888888888,0.1111111111111111]",1
+346,4f3771bf-0850-3813-5de9-d0592e66,Ordinary - Unregistered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+347,502b50b6-08fa-b922-9bb6-dbd4d848,Ordinary - Unregistered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+348,53cb26b0-7222-8eb4-ef0d-29e7a801,Ordinary - Unregistered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+349,5409088d-b542-9cac-7fac-9ab00271,Ordinary - Unregistered,0.6666666666666666,0.3333333333333333,12.0,Binge watcher,2,"[0.6666666666666666,0.3333333333333333]",2
+350,5414140f-2888-40b9-e1e2-7984f327,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+351,54e1c86d-b289-f693-e3a3-5d393778,Ordinary - Unregistered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+352,554558f4-55fd-07df-ddb3-309239ad,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+353,56a4a9a0-7ab4-0a76-0621-b118321b,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+354,57b97824-05f2-21af-72f1-95f7d697,Ordinary - Unregistered,0.625,0.375,8.0,Binge watcher,2,"[0.625,0.375]",2
+355,5bfa22fd-175f-02d2-c446-36369a81,Ordinary - Unregistered,0.7272727272727273,0.2727272727272727,11.0,Binge watcher,2,"[0.7272727272727273,0.2727272727272727]",2
+356,5d557ed3-ce5e-24e4-a66e-aa966d6c,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+357,5e97ad83-2b2c-529e-f831-deac0066,Ordinary - Unregistered,0.8,0.2,5.0,Binge watcher,2,"[0.8,0.2]",2
+358,5fad3306-616d-9b57-3411-75efa34d,Ordinary - Unregistered,0.5,0.5,6.0,Mix,0,"[0.5,0.5]",2
+359,600fadb1-9f64-3bf4-b14c-378c45ae,Ordinary - Unregistered,0.2727272727272727,0.7272727272727273,11.0,Regular,1,"[0.2727272727272727,0.7272727272727273]",0
+360,6408c27b-ab13-d145-5b44-24f30202,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+361,6613f3e0-2e08-24f1-52ba-bfab8807,Ordinary - Unregistered,1.0,0.0,9.0,Binge watcher,2,"[1.0,0.0]",1
+362,6809fd15-56b5-3424-e33d-88eb107c,Ordinary - Unregistered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+363,6a9b69a1-5f2e-6aea-63d9-0e9d77c1,Ordinary - Unregistered,0.0,1.0,7.0,Regular,1,"[0.0,1.0]",0
+364,6c86b1d0-fd95-c414-78d2-9495251b,Ordinary - Unregistered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+365,6e25573c-8b7b-a2e7-a782-480ddb63,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+366,6f168bc8-c816-a359-ba88-da8c663d,Ordinary - Unregistered,0.875,0.125,8.0,Binge watcher,2,"[0.875,0.125]",1
+367,6f359ebe-9f0a-2bae-a27a-c4ec1712,Ordinary - Unregistered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+368,6f99bc0c-a871-5dd6-80cb-22296ada,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+369,70eacff4-a340-e4fd-746a-807b58c3,Ordinary - Unregistered,0.9166666666666666,0.08333333333333333,12.0,Binge watcher,2,"[0.9166666666666666,0.08333333333333333]",1
+370,74105285-3bd1-71b2-bb2b-df56e6f7,Ordinary - Unregistered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+371,74df8aff-e884-bc0d-7710-a23afc0d,Ordinary - Unregistered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+372,7550652e-a184-e590-1205-03d91e86,Ordinary - Unregistered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+373,755f4b52-e48e-eda7-42c0-2dabd3cf,Ordinary - Unregistered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+374,75bece44-7ed0-9de1-f411-854abe3b,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+375,77d5ac07-0cfc-ac01-e741-58dae777,Ordinary - Unregistered,0.375,0.625,8.0,Regular,1,"[0.375,0.625]",0
+376,78928b9d-af19-1353-e439-c5b1d36f,Ordinary - Unregistered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+377,78f08216-f3b9-62f6-7676-e8f9b3e2,Ordinary - Unregistered,0.6,0.4,5.0,Binge watcher,2,"[0.6,0.4]",2
+378,7b7820c3-5040-cdf4-4448-bacd9426,Ordinary - Unregistered,1.0,0.0,9.0,Binge watcher,2,"[1.0,0.0]",1
+379,7c6856f2-bacb-4be2-61d0-ba4bf284,Ordinary - Unregistered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+380,7d0acedd-f795-6e39-b508-3eea42ac,Ordinary - Unregistered,0.0,1.0,7.0,Regular,1,"[0.0,1.0]",0
+381,80e6c3aa-f56c-4679-d623-79d6fd2d,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+382,85d4f155-5a13-7eb1-4d96-5c0b6e30,Ordinary - Unregistered,0.8461538461538461,0.15384615384615385,13.0,Binge watcher,2,"[0.8461538461538461,0.15384615384615385]",1
+383,8a2e2082-7444-5533-6931-1b05fd88,Ordinary - Unregistered,0.7142857142857143,0.2857142857142857,7.0,Binge watcher,2,"[0.7142857142857143,0.2857142857142857]",2
+384,8a68d73e-17f5-4571-ef15-e1d03878,Ordinary - Unregistered,0.8,0.2,10.0,Binge watcher,2,"[0.8,0.2]",2
+385,8a6d88da-00af-01eb-e85b-db817e28,Ordinary - Unregistered,0.625,0.375,8.0,Binge watcher,2,"[0.625,0.375]",2
+386,8ae29d55-64a1-1cf2-962b-4a35e380,Ordinary - Unregistered,0.6,0.4,10.0,Binge watcher,2,"[0.6,0.4]",2
+387,8c7bdf99-8cda-02c4-7ccf-ad45ef8a,Ordinary - Unregistered,0.9230769230769231,0.07692307692307693,13.0,Binge watcher,2,"[0.9230769230769231,0.07692307692307693]",1
+388,8cedbb4b-6088-0b3c-fc04-ad8ce093,Ordinary - Unregistered,1.0,0.0,9.0,Binge watcher,2,"[1.0,0.0]",1
+389,8f38fcd5-8798-9850-2359-5268418e,Ordinary - Unregistered,0.5,0.5,8.0,Binge watcher,2,"[0.5,0.5]",2
+390,9187a2a4-6ffb-f4f5-f012-df8a1141,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+391,92d86eda-129e-0d8c-0a73-835acef9,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+392,9627fef7-14c0-4a88-0954-9cf43b68,Ordinary - Unregistered,0.8888888888888888,0.1111111111111111,9.0,Binge watcher,2,"[0.8888888888888888,0.1111111111111111]",1
+393,97372a43-0a6d-3145-e63f-0202242e,Ordinary - Unregistered,0.8333333333333334,0.16666666666666666,6.0,Binge watcher,2,"[0.8333333333333334,0.16666666666666666]",1
+394,97f93288-c344-0f1f-19c0-14aff5aa,Ordinary - Unregistered,0.3333333333333333,0.6666666666666666,9.0,Regular,1,"[0.3333333333333333,0.6666666666666666]",0
+395,98599cc0-703a-b3be-34dc-7bcf7e6a,Ordinary - Unregistered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+396,987749e2-fc0f-96db-2aa7-7df33e6d,Ordinary - Unregistered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+397,991dbd0d-8c68-1ed6-f469-0348585f,Ordinary - Unregistered,0.0,1.0,7.0,Regular,1,"[0.0,1.0]",0
+398,9946a658-3dc0-f680-6e04-89182b0f,Ordinary - Unregistered,0.6666666666666666,0.3333333333333333,6.0,Binge watcher,2,"[0.6666666666666666,0.3333333333333333]",2
+399,999f9f91-e880-70f1-00d3-e8994609,Ordinary - Unregistered,0.0,1.0,8.0,Regular,1,"[0.0,1.0]",0
+400,99d9bce0-1f7d-da02-6d84-afe0122e,Ordinary - Unregistered,0.8571428571428571,0.14285714285714285,7.0,Binge watcher,2,"[0.8571428571428571,0.14285714285714285]",1
+401,9c5c43e2-3def-6e8f-844e-4ee72d08,Ordinary - Unregistered,0.375,0.625,8.0,Regular,1,"[0.375,0.625]",0
+402,9cc2cc33-730e-86eb-e910-ff1ec6fd,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+403,9dfba79f-46d5-9b68-3a28-dff09283,Ordinary - Unregistered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+404,9e184ea2-45e6-abdb-90a9-fb5b011b,Ordinary - Unregistered,0.6666666666666666,0.3333333333333333,12.0,Binge watcher,2,"[0.6666666666666666,0.3333333333333333]",2
+405,a070cc15-8fb3-b7eb-834d-d191a652,Ordinary - Unregistered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+406,a134cb86-69ed-3ceb-ab8b-42799b5f,Ordinary - Unregistered,0.7142857142857143,0.2857142857142857,7.0,Binge watcher,2,"[0.7142857142857143,0.2857142857142857]",2
+407,a1ac05b8-d131-07d0-f419-28c0d19a,Ordinary - Unregistered,1.0,0.0,13.0,Binge watcher,2,"[1.0,0.0]",1
+408,a1b9f7ef-402c-6b05-11c1-33d65f47,Ordinary - Unregistered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+409,a4793f2a-58de-2b33-168f-32424641,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+410,a55e8048-fa92-f072-72e3-bbf2ba61,Ordinary - Unregistered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+411,a7010942-2bf9-c022-3897-796a718f,Ordinary - Unregistered,0.8,0.2,5.0,Binge watcher,2,"[0.8,0.2]",2
+412,a898d118-8b18-a02c-ae58-2a774d5f,Ordinary - Unregistered,1.0,0.0,7.0,Binge watcher,2,"[1.0,0.0]",1
+413,a932ede5-1443-cb58-2838-6a6efc0a,Ordinary - Unregistered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+414,a96e9db0-5940-66d7-4a98-2379b34d,Ordinary - Unregistered,0.6,0.4,5.0,Binge watcher,2,"[0.6,0.4]",2
+415,a98a0de3-d8ed-675c-b2d4-ac776c7b,Ordinary - Unregistered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+416,a997f5a7-10f2-8566-1c1d-559b423c,Ordinary - Unregistered,0.9230769230769231,0.07692307692307693,13.0,Binge watcher,2,"[0.9230769230769231,0.07692307692307693]",1
+417,abcc36e1-adfa-f564-04d4-d632273a,Ordinary - Unregistered,0.5,0.5,6.0,Mix,0,"[0.5,0.5]",2
+418,abda0840-539e-d7ad-7f3c-e3005350,Ordinary - Unregistered,0.5714285714285714,0.42857142857142855,7.0,Binge watcher,2,"[0.5714285714285714,0.42857142857142855]",2
+419,abe4e05a-6e7f-9b91-6fc2-255d8ca8,Ordinary - Unregistered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+420,ad50ec3a-b5fa-441c-dff6-68962309,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+421,af82af91-5c05-62ed-d5f4-ab452057,Ordinary - Unregistered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+422,b203a259-8fca-f544-f793-7196165c,Ordinary - Unregistered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+423,b341bfef-bd17-e48f-e3c6-71e45a3b,Ordinary - Unregistered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+424,b3ed71c3-f69d-be41-8e55-61063ba5,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+425,b4317fab-f533-bf46-11da-30745ab3,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+426,b51ab28b-c73d-4a8a-b819-1193d14b,Ordinary - Unregistered,0.36363636363636365,0.6363636363636364,11.0,Regular,1,"[0.36363636363636365,0.6363636363636364]",0
+427,bbed801c-180e-99dc-7c6b-4a6ce07e,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+428,bc165eba-99d1-fcf2-3c18-7b8ddbe3,Ordinary - Unregistered,0.6666666666666666,0.3333333333333333,9.0,Binge watcher,2,"[0.6666666666666666,0.3333333333333333]",2
+429,bc59fb83-de20-c8dc-0046-06b5a884,Ordinary - Unregistered,1.0,0.0,6.0,Binge watcher,2,"[1.0,0.0]",1
+430,bde2c3b9-096f-3106-3105-39e3c690,Ordinary - Unregistered,0.8888888888888888,0.1111111111111111,9.0,Binge watcher,2,"[0.8888888888888888,0.1111111111111111]",1
+431,be7e4626-8ea8-e4e7-bd98-df4d6b7e,Ordinary - Unregistered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+432,be8f96e0-decb-0d0f-f5a0-da9a731a,Ordinary - Unregistered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+433,bf2d4ca4-7b76-c83f-c25b-69db4d40,Ordinary - Unregistered,0.9090909090909091,0.09090909090909091,11.0,Binge watcher,2,"[0.9090909090909091,0.09090909090909091]",1
+434,c0a279eb-433f-7d20-4fe4-30c7bf1d,Ordinary - Unregistered,1.0,0.0,7.0,Binge watcher,2,"[1.0,0.0]",1
+435,c0e4f1b6-286e-9a62-9b55-08b882ec,Ordinary - Unregistered,0.3076923076923077,0.6923076923076923,13.0,Regular,1,"[0.3076923076923077,0.6923076923076923]",0
+436,c0f2c451-9f22-3dc5-b0ab-d6747910,Ordinary - Unregistered,1.0,0.0,10.0,Binge watcher,2,"[1.0,0.0]",1
+437,c1b850ff-362a-890f-0c23-014773bb,Ordinary - Unregistered,0.9166666666666666,0.08333333333333333,12.0,Binge watcher,2,"[0.9166666666666666,0.08333333333333333]",1
+438,c24334a0-477a-6656-021d-668ba57f,Ordinary - Unregistered,1.0,0.0,7.0,Binge watcher,2,"[1.0,0.0]",1
+439,c3385c79-a01d-377d-9eac-6cf460e9,Ordinary - Unregistered,0.75,0.25,8.0,Binge watcher,2,"[0.75,0.25]",2
+440,c9f74898-df82-973e-76ca-08186d7c,Ordinary - Unregistered,1.0,0.0,6.0,Binge watcher,2,"[1.0,0.0]",1
+441,cc1e5f29-a1bd-4a13-5c8d-dbcaa11b,Ordinary - Unregistered,0.8333333333333334,0.16666666666666666,6.0,Binge watcher,2,"[0.8333333333333334,0.16666666666666666]",1
+442,ce280b9f-f7cf-eef4-dd34-fdc44bfe,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+443,ce4913ec-b21e-60b6-d455-4bc5b2b4,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+444,ceff0481-0e5a-e1d8-5361-b5ba2a52,Ordinary - Unregistered,0.3333333333333333,0.6666666666666666,9.0,Regular,1,"[0.3333333333333333,0.6666666666666666]",0
+445,cf23b843-3219-15e7-f878-361bbfeb,Ordinary - Unregistered,1.0,0.0,6.0,Binge watcher,2,"[1.0,0.0]",1
+446,d0fe3bbe-eeeb-e784-986f-51c01c74,Ordinary - Unregistered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+447,d2a78c5a-c501-ea53-1bcf-2fedb47d,Ordinary - Unregistered,0.0,1.0,9.0,Regular,1,"[0.0,1.0]",0
+448,d41a406c-81b7-dca2-962a-a408e155,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+449,d424420a-72ee-7166-ac7e-9b96c0e6,Ordinary - Unregistered,0.5,0.5,8.0,Binge watcher,2,"[0.5,0.5]",2
+450,d4ca59b9-1058-6388-4cc5-e58c2290,Ordinary - Unregistered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+451,d5d7fee4-5428-bea3-17aa-30fb97f1,Ordinary - Unregistered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+452,d6458839-e410-c16f-44d7-7aad9b6b,Ordinary - Unregistered,1.0,0.0,11.0,Binge watcher,2,"[1.0,0.0]",1
+453,d80b6775-ae61-8dae-98ce-99412037,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+454,d89aba44-424b-9d5d-5dd4-f1fbabf1,Ordinary - Unregistered,1.0,0.0,11.0,Binge watcher,2,"[1.0,0.0]",1
+455,d92b593e-555f-9b3b-4007-752ea02c,Ordinary - Unregistered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+456,d964c832-c32d-77ff-672a-1cf12f7e,Ordinary - Unregistered,1.0,0.0,9.0,Binge watcher,2,"[1.0,0.0]",1
+457,daf25c41-8b84-6414-7646-b7df2abd,Ordinary - Unregistered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+458,db98a0d9-3d4f-4219-b27d-74a44a01,Ordinary - Unregistered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+459,dd30c478-d26e-3f37-f395-b912bead,Ordinary - Unregistered,1.0,0.0,9.0,Binge watcher,2,"[1.0,0.0]",1
+460,de14f7c6-1844-4e1b-bb5c-16ceef86,Ordinary - Unregistered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+461,dfc849d9-7793-4345-d533-579da01b,Ordinary - Unregistered,0.7272727272727273,0.2727272727272727,11.0,Binge watcher,2,"[0.7272727272727273,0.2727272727272727]",2
+462,e091c85e-d8a5-ed63-dfdb-631d4614,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+463,e3485d79-4f92-1fff-4e64-56943e9b,Ordinary - Unregistered,0.6,0.4,10.0,Binge watcher,2,"[0.6,0.4]",2
+464,e65e8c36-5f2d-131d-9602-cd643f97,Ordinary - Unregistered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+465,e74ddfe8-97b1-613e-1495-f884f58c,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+466,e88cc767-fc0d-54d4-243a-4479ebf9,Ordinary - Unregistered,1.0,0.0,7.0,Binge watcher,2,"[1.0,0.0]",1
+467,e9822752-a8af-cf42-1ddc-d2518ca8,Ordinary - Unregistered,0.6666666666666666,0.3333333333333333,9.0,Binge watcher,2,"[0.6666666666666666,0.3333333333333333]",2
+468,e99d6a57-d572-b7f6-34cf-3ac76f24,Ordinary - Unregistered,0.0,1.0,6.0,Regular,1,"[0.0,1.0]",0
+469,eb9864df-c827-4027-9de4-5829eee9,Ordinary - Unregistered,0.7272727272727273,0.2727272727272727,11.0,Binge watcher,2,"[0.7272727272727273,0.2727272727272727]",2
+470,eba3b0ea-3aeb-a6e3-8df6-742db8a0,Ordinary - Unregistered,1.0,0.0,7.0,Binge watcher,2,"[1.0,0.0]",1
+471,ebdd7e01-09f4-dbf1-8a08-602d0001,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+472,ed71098a-9600-3bac-4cca-70ce0496,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+473,ed71bd28-a732-78c0-de66-e32f77c8,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+474,edcaf7c0-7593-61d2-f4e9-689b8340,Ordinary - Unregistered,1.0,0.0,6.0,Binge watcher,2,"[1.0,0.0]",1
+475,ef70bde5-8a4d-68a0-4f26-e5253d2c,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+476,f2a9ccb0-9831-6d2a-6254-8f0366c9,Ordinary - Unregistered,0.6666666666666666,0.3333333333333333,6.0,Binge watcher,2,"[0.6666666666666666,0.3333333333333333]",2
+477,f4bf52fc-cffa-0f52-f4f9-2eff92fc,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+478,f5196f35-183f-1d55-1883-5fef618e,Ordinary - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+479,f6956137-aec3-29d6-ad64-d870e209,Ordinary - Unregistered,0.42857142857142855,0.5714285714285714,7.0,Regular,1,"[0.42857142857142855,0.5714285714285714]",0
+480,f6c2c059-c90e-1566-cc25-b0823249,Ordinary - Unregistered,1.0,0.0,10.0,Binge watcher,2,"[1.0,0.0]",1
+481,f6cd37ab-4add-fb6f-20c2-2374f109,Ordinary - Unregistered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+482,f83fd099-8c89-2894-3a91-bb38be88,Ordinary - Unregistered,0.75,0.25,8.0,Binge watcher,2,"[0.75,0.25]",2
+483,f8c2bef5-12f7-05a2-39e8-43daff7b,Ordinary - Unregistered,0.5,0.5,6.0,Mix,0,"[0.5,0.5]",2
+484,f8f5aa96-ff9b-eb8f-c3dc-06293d3f,Ordinary - Unregistered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+485,fcb83a6e-9298-b96c-29e5-c217b27f,Ordinary - Unregistered,0.5714285714285714,0.42857142857142855,7.0,Binge watcher,2,"[0.5714285714285714,0.42857142857142855]",2
+486,ff3d026c-5e45-1835-2b58-e6308d38,Ordinary - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+487,ff549000-a9c8-4964-1ece-6923a32e,Ordinary - Unregistered,0.6,0.4,5.0,Binge watcher,2,"[0.6,0.4]",2
+488,Aleksandra,Late - Registered,0.9166666666666666,0.08333333333333333,12.0,Binge watcher,2,"[0.9166666666666666,0.08333333333333333]",1
+489,alma,Late - Registered,1.0,0.0,9.0,Binge watcher,2,"[1.0,0.0]",1
+490,AndrejaN,Late - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+491,anja menih,Late - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+492,anja.r,Late - Registered,1.0,0.0,12.0,Binge watcher,2,"[1.0,0.0]",1
+493,Annie Cornu,Late - Registered,1.0,0.0,12.0,Binge watcher,2,"[1.0,0.0]",1
+494,babao,Late - Registered,0.38461538461538464,0.6153846153846154,13.0,Regular,1,"[0.38461538461538464,0.6153846153846154]",0
+495,Bor,Late - Registered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+496,BorutKolar,Late - Registered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+497,David Sirk,Late - Registered,0.8181818181818182,0.18181818181818182,11.0,Binge watcher,2,"[0.8181818181818182,0.18181818181818182]",1
+498,Dražen Kralj,Late - Registered,0.9166666666666666,0.08333333333333333,12.0,Binge watcher,2,"[0.9166666666666666,0.08333333333333333]",1
+499,Gaja,Late - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+500,Hrvoje Petek,Late - Registered,0.9166666666666666,0.08333333333333333,12.0,Binge watcher,2,"[0.9166666666666666,0.08333333333333333]",1
+501,Ivana Kozina,Late - Registered,0.7692307692307693,0.23076923076923078,13.0,Binge watcher,2,"[0.7692307692307693,0.23076923076923078]",2
+502,Jelenaa,Late - Registered,0.9166666666666666,0.08333333333333333,12.0,Binge watcher,2,"[0.9166666666666666,0.08333333333333333]",1
+503,Jolanda,Late - Registered,1.0,0.0,9.0,Binge watcher,2,"[1.0,0.0]",1
+504,Katja De Faveri,Late - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+505,Kopacin,Late - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+506,Ksenija,Late - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+507,Lejla,Late - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+508,Marco,Late - Registered,0.9230769230769231,0.07692307692307693,13.0,Binge watcher,2,"[0.9230769230769231,0.07692307692307693]",1
+509,Marušaaaa,Late - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+510,Matea Pavicic,Late - Registered,0.375,0.625,8.0,Regular,1,"[0.375,0.625]",0
+511,miranF,Late - Registered,1.0,0.0,13.0,Binge watcher,2,"[1.0,0.0]",1
+512,Nada,Late - Registered,1.0,0.0,12.0,Binge watcher,2,"[1.0,0.0]",1
+513,Nikolaj,Late - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+514,Nina1,Late - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+515,NinaP,Late - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+516,noordung,Late - Registered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+517,p2035e,Late - Registered,0.6,0.4,5.0,Binge watcher,2,"[0.6,0.4]",2
+518,Paval,Late - Registered,0.7692307692307693,0.23076923076923078,13.0,Binge watcher,2,"[0.7692307692307693,0.23076923076923078]",2
+519,poppy,Late - Registered,0.9230769230769231,0.07692307692307693,13.0,Binge watcher,2,"[0.9230769230769231,0.07692307692307693]",1
+520,roman113,Late - Registered,1.0,0.0,6.0,Binge watcher,2,"[1.0,0.0]",1
+521,Safet,Late - Registered,0.5,0.5,8.0,Binge watcher,2,"[0.5,0.5]",2
+522,Spasic Vladimir,Late - Registered,0.6666666666666666,0.3333333333333333,6.0,Binge watcher,2,"[0.6666666666666666,0.3333333333333333]",2
+523,stinfio,Late - Registered,0.7692307692307693,0.23076923076923078,13.0,Binge watcher,2,"[0.7692307692307693,0.23076923076923078]",2
+524,Tone,Late - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+525,Toni Petkovic,Late - Registered,0.6153846153846154,0.38461538461538464,13.0,Binge watcher,2,"[0.6153846153846154,0.38461538461538464]",2
+526,Valentin,Late - Registered,1.0,0.0,13.0,Binge watcher,2,"[1.0,0.0]",1
+527,Vanda,Late - Registered,0.8,0.2,5.0,Binge watcher,2,"[0.8,0.2]",2
+528,varga,Late - Registered,0.8333333333333334,0.16666666666666666,12.0,Binge watcher,2,"[0.8333333333333334,0.16666666666666666]",1
+529,Vedran Nikolic,Late - Registered,1.0,0.0,12.0,Binge watcher,2,"[1.0,0.0]",1
+530,ŽS,Late - Registered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+531,0126c792-ca6a-61a6-a96a-42bf5fc1,Late - Unregistered,0.8,0.2,5.0,Binge watcher,2,"[0.8,0.2]",2
+532,012d8099-01c6-f99f-55ef-151df7a5,Late - Unregistered,0.5,0.5,6.0,Mix,0,"[0.5,0.5]",2
+533,01d960ae-5d88-45e9-e235-6f68599c,Late - Unregistered,1.0,0.0,12.0,Binge watcher,2,"[1.0,0.0]",1
+534,0f165b85-0670-e6ac-bf14-cf00655a,Late - Unregistered,0.6153846153846154,0.38461538461538464,13.0,Binge watcher,2,"[0.6153846153846154,0.38461538461538464]",2
+535,14b19a02-38a5-992d-2f4f-aebd2315,Late - Unregistered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+536,25a03b67-3ce1-77fc-c715-72ba385a,Late - Unregistered,0.5833333333333334,0.4166666666666667,12.0,Binge watcher,2,"[0.5833333333333334,0.4166666666666667]",2
+537,2888b741-780e-2c51-0772-617d7c33,Late - Unregistered,1.0,0.0,13.0,Binge watcher,2,"[1.0,0.0]",1
+538,2c89fe15-af0e-a900-7384-29f556d1,Late - Unregistered,0.9230769230769231,0.07692307692307693,13.0,Binge watcher,2,"[0.9230769230769231,0.07692307692307693]",1
+539,2fba9116-a20d-ea5f-3980-a0c4226c,Late - Unregistered,0.6,0.4,5.0,Binge watcher,2,"[0.6,0.4]",2
+540,32c9bec6-bd73-18c6-9611-148b7b0e,Late - Unregistered,0.875,0.125,8.0,Binge watcher,2,"[0.875,0.125]",1
+541,3469f507-2f62-0e43-70e8-0c4bc6e3,Late - Unregistered,1.0,0.0,12.0,Binge watcher,2,"[1.0,0.0]",1
+542,3db3466c-e5e5-3bc2-d72b-8fa46cd2,Late - Unregistered,1.0,0.0,10.0,Binge watcher,2,"[1.0,0.0]",1
+543,427905ff-8519-fc73-90ee-17ecae10,Late - Unregistered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+544,461e7201-9b62-2da4-aca6-9bc7e2aa,Late - Unregistered,1.0,0.0,6.0,Binge watcher,2,"[1.0,0.0]",1
+545,4fa0f410-5265-9be6-be9d-778ee66d,Late - Unregistered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+546,52656cee-d479-aed9-c14a-94a33208,Late - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+547,54ec8d85-fcb4-2695-6332-e8c53e6e,Late - Unregistered,1.0,0.0,10.0,Binge watcher,2,"[1.0,0.0]",1
+548,57fbd139-416d-e97c-42e1-e3d21786,Late - Unregistered,1.0,0.0,6.0,Binge watcher,2,"[1.0,0.0]",1
+549,5a064204-6bd4-8b83-adec-4f0196a2,Late - Unregistered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+550,5bb4be5d-066c-8d6b-ec52-55325830,Late - Unregistered,0.75,0.25,4.0,Binge watcher,2,"[0.75,0.25]",2
+551,5de63720-f52d-3d98-8315-9cffae99,Late - Unregistered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+552,6ba67821-cac2-1015-fa83-7a8546b6,Late - Unregistered,0.7272727272727273,0.2727272727272727,11.0,Binge watcher,2,"[0.7272727272727273,0.2727272727272727]",2
+553,6cb1567b-ce14-1c63-5c79-2d56cd65,Late - Unregistered,1.0,0.0,9.0,Binge watcher,2,"[1.0,0.0]",1
+554,76223a87-2695-2b9d-ac3d-b8a7f469,Late - Unregistered,1.0,0.0,13.0,Binge watcher,2,"[1.0,0.0]",1
+555,8095dea5-2414-2dd8-96a5-94762161,Late - Unregistered,0.6,0.4,5.0,Binge watcher,2,"[0.6,0.4]",2
+556,823fb65f-7880-5b1e-2c81-c7fdda61,Late - Unregistered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+557,889c7103-b73e-f33a-594f-f207a4cd,Late - Unregistered,1.0,0.0,11.0,Binge watcher,2,"[1.0,0.0]",1
+558,8bdf5cb3-35c1-f6f1-e618-f641fcc2,Late - Unregistered,0.8461538461538461,0.15384615384615385,13.0,Binge watcher,2,"[0.8461538461538461,0.15384615384615385]",1
+559,921196a3-13fa-e4ce-3af8-6cbdc712,Late - Unregistered,0.8,0.2,10.0,Binge watcher,2,"[0.8,0.2]",2
+560,979eea52-4e76-7700-5136-517b6799,Late - Unregistered,0.7272727272727273,0.2727272727272727,11.0,Binge watcher,2,"[0.7272727272727273,0.2727272727272727]",2
+561,9f9f9fdf-92e7-af14-0692-647f88c2,Late - Unregistered,1.0,0.0,8.0,Binge watcher,2,"[1.0,0.0]",1
+562,a3ec40af-975f-ba01-2db3-3caa97d9,Late - Unregistered,0.8461538461538461,0.15384615384615385,13.0,Binge watcher,2,"[0.8461538461538461,0.15384615384615385]",1
+563,a52f2bc6-a117-0f22-9ee9-126d536e,Late - Unregistered,1.0,0.0,11.0,Binge watcher,2,"[1.0,0.0]",1
+564,af4c2645-6fb3-16d2-5660-862ba713,Late - Unregistered,1.0,0.0,10.0,Binge watcher,2,"[1.0,0.0]",1
+565,b37edebf-8ae7-aa45-24a6-a71ab0cf,Late - Unregistered,0.0,1.0,4.0,Regular,1,"[0.0,1.0]",0
+566,b543862d-e79a-96e0-43de-2a3df236,Late - Unregistered,0.0,1.0,5.0,Regular,1,"[0.0,1.0]",0
+567,bd5f2e42-b664-0cc9-37b0-15736f11,Late - Unregistered,0.8333333333333334,0.16666666666666666,12.0,Binge watcher,2,"[0.8333333333333334,0.16666666666666666]",1
+568,bd68cd15-7a72-7240-6a6d-11fdf386,Late - Unregistered,0.8571428571428571,0.14285714285714285,7.0,Binge watcher,2,"[0.8571428571428571,0.14285714285714285]",1
+569,be606175-e63e-f12e-d947-27baefe1,Late - Unregistered,1.0,0.0,13.0,Binge watcher,2,"[1.0,0.0]",1
+570,c1d60570-2cbc-37b1-9e8a-4883bae7,Late - Unregistered,0.9230769230769231,0.07692307692307693,13.0,Binge watcher,2,"[0.9230769230769231,0.07692307692307693]",1
+571,cd63ab01-8f40-afeb-0b3d-ca6de10f,Late - Unregistered,1.0,0.0,13.0,Binge watcher,2,"[1.0,0.0]",1
+572,d240496b-e2cf-209d-80f4-6a24fbd7,Late - Unregistered,0.8181818181818182,0.18181818181818182,11.0,Binge watcher,2,"[0.8181818181818182,0.18181818181818182]",1
+573,d48858c6-80ce-2e95-a74a-8d955a9e,Late - Unregistered,0.8,0.2,5.0,Binge watcher,2,"[0.8,0.2]",2
+574,db0c804a-a6ad-cb9d-d037-84256d49,Late - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+575,e84ee6a5-b0be-fe4d-cee9-c9846350,Late - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+576,e8f759fe-33ca-af05-511a-3b4aa7f5,Late - Unregistered,1.0,0.0,4.0,Binge watcher,2,"[1.0,0.0]",1
+577,e996ed9e-cf46-2cad-2e67-5688856d,Late - Unregistered,0.9230769230769231,0.07692307692307693,13.0,Binge watcher,2,"[0.9230769230769231,0.07692307692307693]",1
+578,eabfeaaa-351b-e551-fd2b-3e6d0f45,Late - Unregistered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
+579,ef41223d-f80f-838d-f944-d7c278c7,Late - Unregistered,0.8,0.2,5.0,Binge watcher,2,"[0.8,0.2]",2
+580,f309c633-16b6-7dc6-6a93-65789e3f,Late - Unregistered,1.0,0.0,6.0,Binge watcher,2,"[1.0,0.0]",1
+581,fb1d6ed7-6e3b-21ed-c1d0-d1456834,Late - Unregistered,1.0,0.0,5.0,Binge watcher,2,"[1.0,0.0]",1
